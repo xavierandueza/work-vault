@@ -30,9 +30,6 @@
 
 *Discussion:*
 * Are we cool allowing for more than 10 docs/zip uploads? Seems that some people may have been wanting to upload more but couldn't from what I was looking at.
-* Nice on the MCP metrics plan @jarrod - I'll give a read over today and give you any feedback that I have.
-	* As a heads up - might be looking to get @Alvin He to take over agent metrics or MCP OAuth so that you're not as stretched across the 3 things - CC @falco
-* Do we want to allow for the pages to be searchable as well as llms.txt? ie a /llms/search?query=cat that gets all the actual cat excerpts...
 * Happy 5 year work-a-versary Ryan
 * For @christian I'll be trying to make it so that you have less PRs to review on AI side so you can revieiw some of the branching teams prs - everyone maybe lessen up on christian so that he can not have the normal AI load and can focus on slack/teams PRs.
 
