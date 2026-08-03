@@ -1,0 +1,22 @@
+- **askAI V2**
+    - Anticipated GA: **August 13th**.
+- **AI Translation**
+    - Status:
+        - currently addressing bugs before proceeding with next QA session
+        - waiting on design revamp from Ryan
+    - Anticipated GA: **August 17th**.
+- **MCP Metrics (jarrod)**
+    - Status: Allowing 2 weeks for QAT and 1 week for rollout.
+    - Anticipated GA: **August 24th**.
+- **SlackWriter Christian**
+    - Status: Currently addressing bugs.
+    - Anticipated GA: **August 27th** (approx. 4 weeks from now).
+- **Agent Metrics (jarrod)**
+    - Status: Pushed back due to UI changes.
+    - Anticipated GA: **August 31st** (pending QAT start by August 12th).
+- **MCP OAuth (jarrod)**
+    - Status: Currently on the backburner; proceeding slowly alongside other tasks
+    - Anticipated GA: **1–2 months**.
+
+### Questions:
+- For the agent metrics OR the MCP OAuth can we get alvin to take over on leading the charge for them?
