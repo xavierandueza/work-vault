@@ -24,7 +24,9 @@
     * AskAI in search bar
     * All normal chat interface stuff (ie tool call/thinking showing)
     * Is there anything that's part of v2 release that I'm missing?
-* The actual UI touch-ups for the tool-calling. When do you think that'll be done Ryan?
+	- Advanced/custom prompts
+	- Links showing up at the bottom
+		- Links togglable to show down bottom as before...
 
 *Discussion:*
 * Are we cool allowing for more than 10 docs/zip uploads? Seems that some people may have been wanting to upload more but couldn't from what I was looking at.
