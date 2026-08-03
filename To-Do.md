@@ -43,8 +43,15 @@
     - [ ] https://moekhalil.substack.com/p/mcp-onboarding-is-the-most-exciting?utm_source=tldrfounders
 ### Tuesday
 - [ ] PR Reviews
-- [ ] Do the security issue stuff - make that all ready for anand review
-- [ ] Medium response length - make sure that this is good
+- [ ] Resolve outstanding comments I have on the PR
+- [ ] Finish off the askAI v2 seeding work:
+	- [ ] Self-review the PR
+	- [ ] what works better b/w low and none thinking for luna
+	- [ ] Setup the staging app via the PR
+	- [ ] run the evals - do we see improvements for the v2 before/after time + cost wise?
+	- [ ] Record the loom showing what it is/how it works
+- [ ] Finish off the QA Plan
+- [ ] Medium response length for monorepo - make sure that this is good
 ### Wednesday
 - [ ] AskAI judge improvements
 ### Thursday
@@ -56,15 +63,15 @@
 ## PR Reviews
 - [ ] PR Reviews
     - [ ] `readme`
-        - [x] https://github.com/readmeio/readme/pull/20067
-        - [x] https://github.com/readmeio/readme/pull/19580
+        - [ ] https://github.com/readmeio/readme/pull/20067
+        - [ ] 
     - [ ] `ai`
-        - [x] https://github.com/readmeio/ai/pull/882 
+        - [ ] 
     - [ ] `gitto`
-        - [x] 
+        - [ ] 
     - [ ] `ai-cli-runner`
-        - [x] https://github.com/readmeio/ai-cli-runner/pull/103
-        - [x] https://github.com/readmeio/ai-cli-runner/pull/101
+        - [ ]
+        - [ ]
     - [ ] `cli`
         - [ ] 
 
