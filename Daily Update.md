@@ -1,54 +1,34 @@
 *what I did:*
-- Looked over the recent AI imports - tagged ryan in the UI/UX ones and Minh in the other technical ones:
-	- TLDR: we're not handling links to oas well. 
-	- We're not handling non-english titles, excerpts well (ie Chinese body content but english header and excerpt)
-	- Some interesting cases coming through, ie pretty sure someone from JPMorganChase uploaded some internal docs
-	- **Think we need to allow .zip files and more than 10 docs quickly**
 - Finished the [QA Plan for askAI v2](https://app.notion.com/p/readme/QA-Plan-AskAI-V2-3b1c282774b580a69d62cf1ea163c836)
 	- Added all the test cases, recorded the Loom for intro.
 	- Covers all cases I could think of.
-- WIP - better askAI contextualization
-	- [PR up here](https://github.com/readmeio/ai/pull/919) - need to get a recording up and do a self-review
-	- Also need to run the evals on it yet
+-  Up for internal review - better askAI contextualization
+	- [PR up here](https://github.com/readmeio/ai/pull/919) 
+	- Will add langfuse data tomorrow morning, just need to let it run overnight
 
 *Awaiting Review*
-
 * `ai`
-    * [askAI v2 responses too long](https://github.com/readmeio/ai/pull/891) @anand
+    * [askAI v2 seeding](https://github.com/readmeio/ai/pull/919) @falco @minh
 
 *Blockers:*
-* [@ryan](https://lyra-technologies.slack.com/team/U028C1PJE9X) finishing the testing plan for the askai v2 release tomorrow to send to QA team - I know we have:
-    * New askAI placement locations
-    * AskAI in search bar
-    * All normal chat interface stuff (ie tool call/thinking showing)
-    * Is there anything that's part of v2 release that I'm missing?
-	- Advanced/custom prompts
-	- Links showing up at the bottom
-		- Links togglable to show down bottom as before...
+- None
 
 *Discussion:*
-* Are we cool allowing for more than 10 docs/zip uploads? Seems that some people may have been wanting to upload more but couldn't from what I was looking at.
-* Happy 5 year work-a-versary Ryan
-* For @christian I'll be trying to make it so that you have less PRs to review on AI side so you can revieiw some of the branching teams prs - everyone maybe lessen up on christian so that he can not have the normal AI load and can focus on slack/teams PRs.
-
+- None
 
 *What I’ll be working on next:*
-* Tuesday:
-	* AskAI testing plan finished
-	* AskAI seeding turns finished
-    * Get monorepo medium-length answer task for v2 ready for internal review
-    * Get the monorepo access pattern work done (Tuesday)
+- Wednesday:
+	-  Medium response length for monorepo - make sure that this is good
+	-  AskAI judge improvements
 
 *Where this puts me/us:*
 * Still good for GA thursday 13th from my end
 
-
 *PR Reviews:*
-- `readme`
-	-  https://github.com/readmeio/readme/pull/20067
-	- https://github.com/readmeio/readme/pull/19580
-- `ai`
-	- https://github.com/readmeio/ai/pull/882 
-- `ai-cli-runner`
-	- https://github.com/readmeio/ai-cli-runner/pull/103
-	-  https://github.com/readmeio/ai-cli-runner/pull/101
+-  `readme`
+	-  https://github.com/readmeio/readme/pull/19580 
+	-  https://github.com/readmeio/readme/pull/20046 
+	-  https://github.com/readmeio/readme/pull/20091
+-  `ai`
+	-  https://github.com/readmeio/ai/pull/920
+	-  https://github.com/readmeio/ai/pull/921
