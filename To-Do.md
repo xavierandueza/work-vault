@@ -40,7 +40,8 @@
 	- [ ] See the loom on it, includes the langfuse results that we're getting too
 - [x] Finished off the QA Plan
 ### Wednesday-
- [ ] Medium response length for monorepo - make sure that this is good
+- [ ] Do the langfuse evals runs again - maybe need to restart the staging server?
+- [ ] Medium response length for monorepo - make sure that this is good
 - [ ] AskAI judge improvements
 ### Thursday
 - [ ] AskAI Jugde Improvements
