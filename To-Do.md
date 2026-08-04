@@ -35,15 +35,12 @@
 - [ ] 
 ### Tuesday
 - [x] PR Reviews
-- [ ] Finish off the askAI v2 seeding work:
-	- [ ] Self-review the PR
-	- [ ] what works better b/w low and none thinking for luna
-	- [ ] Setup the staging app via the PR
-	- [ ] run the evals - do we see improvements for the v2 before/after time + cost wise?
-	- [ ] Record the loom showing what it is/how it works
-- [x] Finish off the QA Plan
-- [ ] Medium response length for monorepo - make sure that this is good
+- [ ] Finished off the askAI v2 seeding work:
+	- [ ] This is all self-reviewed, opened for internal review
+	- [ ] See the loom on it, includes the langfuse results that we're getting too
+- [x] Finished off the QA Plan
 ### Wednesday
+- [ ] Medium response length for monorepo - make sure that this is good
 - [ ] AskAI judge improvements
 ### Thursday
 - [ ] AskAI Jugde Improvements
