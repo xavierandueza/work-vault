@@ -16,11 +16,11 @@
 - [x] Check triage tickets linear
 - [x] Make sure deployments worked fine for my changes
 - [x] LinkedIn check
-- [ ] Make sure my tickets for the next few days are well scoped and understood
-- [ ] Make sure that the AI repo integration tests have passed
-- [ ] Check weekday-based tasks
-- [ ] PR Reviews
-- [ ] Check on my outstanding PRs
+- [x] Make sure my tickets for the next few days are well scoped and understood
+- [x] Make sure that the AI repo integration tests have passed
+- [x] Check weekday-based tasks
+- [x] PR Reviews
+- [x] Check on my outstanding PRs
 
 ## End of Day
 
@@ -32,18 +32,9 @@
 
 ## What I want to get done this week
 ### Monday
-- [x] PR Reviews
-- [ ] Do the improvements that I mentioned for askAI v2 -> this is just making it get some of the queries right from the get-go in the similar fashion to what we already do
-- [ ] Get the AskAI v2 testing plan done:
-    - [ ] **Ensure this catches all cases including ryan new UI stuff*
-- [ ] Read over and give feedback on the [testing plan that Jarrod made](https://app.notion.com/p/QA-Plan-for-MCP-Metrics-3aec5e251101816c90d6d5fea7bd593d)
-- [ ] Read over what anand sent through here:
-	- [ ] https://aws.github.io/context-ontology-accelerator/
-- [ ] Read over what anand said re: MCP onboarding
-    - [ ] https://moekhalil.substack.com/p/mcp-onboarding-is-the-most-exciting?utm_source=tldrfounders
+- [ ] 
 ### Tuesday
-- [ ] PR Reviews
-- [ ] Resolve outstanding comments I have on the PR
+- [x] PR Reviews
 - [ ] Finish off the askAI v2 seeding work:
 	- [ ] Self-review the PR
 	- [ ] what works better b/w low and none thinking for luna
@@ -65,9 +56,10 @@
     - [ ] `readme`
         - [x] https://github.com/readmeio/readme/pull/19580 
         - [x] https://github.com/readmeio/readme/pull/20046 
-		- [ ] https://github.com/readmeio/readme/pull/20091
+		- [x] https://github.com/readmeio/readme/pull/20091
     - [ ] `ai`
-        - [ ] 
+        - [x] https://github.com/readmeio/ai/pull/920
+        - [x] https://github.com/readmeio/ai/pull/921
     - [ ] `gitto`
         - [ ] 
     - [ ] `ai-cli-runner`
@@ -77,7 +69,8 @@
         - [ ] 
 
 ## Backlog
-- [ ] 
+- [ ] Read over what anand said re: MCP onboarding
+    - [ ] https://moekhalil.substack.com/p/mcp-onboarding-is-the-most-exciting?utm_source=tldrfounders
 - [ ] Tooling via lsps like anand mentioned → see what we can add for this...
 - [ ] Ask everyone who's tackling a vertical - dig up the tickets that other teams can work on - probably a label on issues that are just "outsidePod" tickets:
     - [ ] So we know when people can jump in and help.
