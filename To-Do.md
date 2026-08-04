@@ -1,26 +1,26 @@
 ## Start of Day
 
 - [x] Check Calendar
-- [x] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
-- [x] Check Calendar
-- [x] Check Slack messages and threads
-    - [x] Create tasks for anything that needs doing
-- [x] Email Check
-- [x] Review everyone else’s updates for the day
-    - [x] AI Pod
-    - [x] Branching Pod
-    - [x] Enterprise bug bash pod
-    - [x] Onboarding pod
-    - [x] OAS (Hugo)
-- [x] Review Linear notifications
-- [x] Check triage tickets linear
-- [x] Make sure deployments worked fine for my changes
-- [x] LinkedIn check
-- [x] Make sure my tickets for the next few days are well scoped and understood
-- [x] Make sure that the AI repo integration tests have passed
-- [x] Check weekday-based tasks
-- [x] PR Reviews
-- [x] Check on my outstanding PRs
+- [ ] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
+- [ ] Check Calendar
+- [ ] Check Slack messages and threads
+    - [ ] Create tasks for anything that needs doing
+- [ ] Email Check
+- [ ] Review everyone else’s updates for the day
+    - [ ] AI Pod
+    - [ ] Branching Pod
+    - [ ] Enterprise bug bash pod
+    - [ ] Onboarding pod
+    - [ ] OAS (Hugo)
+- [ ] Review Linear notifications
+- [ ] Check triage tickets linear
+- [ ] Make sure deployments worked fine for my changes
+- [ ] LinkedIn check
+- [ ] Make sure my tickets for the next few days are well scoped and understood
+- [ ] Make sure that the AI repo integration tests have passed
+- [ ] Check weekday-based tasks
+- [ ] PR Reviews
+- [ ] Check on my outstanding PRs
 
 ## End of Day
 
