@@ -41,7 +41,7 @@
 	- [ ] Setup the staging app via the PR
 	- [ ] run the evals - do we see improvements for the v2 before/after time + cost wise?
 	- [ ] Record the loom showing what it is/how it works
-- [ ] Finish off the QA Plan
+- [x] Finish off the QA Plan
 - [ ] Medium response length for monorepo - make sure that this is good
 ### Wednesday
 - [ ] AskAI judge improvements

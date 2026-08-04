@@ -4,11 +4,9 @@
 	- We're not handling non-english titles, excerpts well (ie Chinese body content but english header and excerpt)
 	- Some interesting cases coming through, ie pretty sure someone from JPMorganChase uploaded some internal docs
 	- **Think we need to allow .zip files and more than 10 docs quickly**
-- WIP - the [QA Plan for askAI v2](https://app.notion.com/p/readme/QA-Plan-AskAI-V2-3b1c282774b580a69d62cf1ea163c836)
-	- Another couple hours and it'll be good to go
-	- Have one case that wasn't considered - askAI suggestion localization
-		- @falco made a ticket for you on it [here](https://linear.app/readme-io/issue/RM-17777/make-askai-suggested-questions-respect-locale)
-		- Medium prio, if you can fit in by EOW that'd be great
+- Finished the [QA Plan for askAI v2](https://app.notion.com/p/readme/QA-Plan-AskAI-V2-3b1c282774b580a69d62cf1ea163c836)
+	- Added all the test cases, recorded the Loom for intro.
+	- Covers all cases I could think of.
 - WIP - better askAI contextualization
 	- [PR up here](https://github.com/readmeio/ai/pull/919) - need to get a recording up and do a self-review
 	- Also need to run the evals on it yet
