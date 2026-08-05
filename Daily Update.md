@@ -1,10 +1,10 @@
 *what I did:*
-- Finished the [QA Plan for askAI v2](https://app.notion.com/p/readme/QA-Plan-AskAI-V2-3b1c282774b580a69d62cf1ea163c836)
-	- Added all the test cases, recorded the Loom for intro.
-	- Covers all cases I could think of.
--  Up for internal review - better askAI contextualization
+- PR Reviews
+-  Better askAI contextualization - ended up spending most of my day on this after evals showed that the original approach was not actually doing what was intended
+	- Now we seed the first message with just user query, and don't re-seed with ai on subsequent turns
+	- Battling with getting anandBot approval since
 	- [PR up here](https://github.com/readmeio/ai/pull/919) 
-	- Will add langfuse data tomorrow morning, just need to let it run overnight
+	- Results looking good, just need.a bit more polish now.
 
 *Awaiting Review*
 * `ai`
@@ -17,9 +17,10 @@
 - None
 
 *What I’ll be working on next:*
-- Wednesday:
-	-  Medium response length for monorepo - make sure that this is good
-	-  AskAI judge improvements
+- Thursday:
+	-  Finish off better askAI contextualization
+	- AskAI Judge, dataset improvements
+	- Need to finish making the testing projects for the askAI QA testing
 
 *Where this puts me/us:*
 * Still good for GA thursday 13th from my end
@@ -31,13 +32,6 @@
         -  https://github.com/readmeio/readme/pull/20146
         -  https://github.com/readmeio/readme/pull/20165
     -  `ai`
-        - [x] https://github.com/readmeio/ai/pull/882
-        - [x] https://github.com/readmeio/ai/pull/926
-        - [x] https://github.com/readmeio/ai/pull/928
--  `readme`
-	-  https://github.com/readmeio/readme/pull/19580 
-	-  https://github.com/readmeio/readme/pull/20046 
-	-  https://github.com/readmeio/readme/pull/20091
--  `ai`
-	-  https://github.com/readmeio/ai/pull/920
-	-  https://github.com/readmeio/ai/pull/921
+        - https://github.com/readmeio/ai/pull/882
+        -  https://github.com/readmeio/ai/pull/926
+        -  https://github.com/readmeio/ai/pull/928
