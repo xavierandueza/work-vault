@@ -42,16 +42,15 @@
 - [x] Finished off the QA Plan
 ### Wednesday-
 - [x] PR Reviews
-- [ ] Medium response length for monorepo - make sure that this is good
 - [ ] AskAI judge improvements
 ### Thursday
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
 	- [ ] See if the anand-review bot actually worked correctly: https://github.com/readmeio/ai/pull/919
 	- [ ] Add in the delta achieved time-wise b/w the 3 models used, score-wise, and cost-wise
 	- [ ] Get anand review until passed
-	- [ ] Get Falco to re-review from scratch
-- [ ] AskAI Jugde Improvements
+- [ ] AskAI Judge Improvements
 ### Friday
+- [ ] Medium response length for monorepo - make sure that this is good
 - [ ] AskAI - get the backend to return urls in-text
 	- [ ] Note - this is something that will need some evals
 
