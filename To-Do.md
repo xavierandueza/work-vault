@@ -6,6 +6,7 @@
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
 - [x] Email Check
+- [ ] Read over the importer incoming inputs
 - [ ] Review everyone else’s updates for the day
     - [x] AI Pod
     - [ ] Branching Pod
