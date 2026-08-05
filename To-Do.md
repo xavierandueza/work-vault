@@ -45,9 +45,8 @@
 - [ ] Medium response length for monorepo - make sure that this is good
 - [ ] AskAI judge improvements
 ### Thursday
-- [ ] Make my loops for the `readme` and `ai` repositories, on completion, assign the anand-reviewer label and give instructions around that.
-	- [ ] Update in my nix flake and rebuild it
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
+	- [ ] See if the anand-review bot actually worked correctly: https://github.com/readmeio/ai/pull/919
 	- [ ] Add in the delta achieved time-wise b/w the 3 models used, score-wise, and cost-wise
 	- [ ] Get anand review until passed
 	- [ ] Get Falco to re-review from scratch
