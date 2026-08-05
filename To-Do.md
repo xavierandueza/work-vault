@@ -60,19 +60,20 @@
 ## PR Reviews
 - [ ] PR Reviews
     - [ ] `readme`
-        - [x] https://github.com/readmeio/readme/pull/19580 
-        - [x] https://github.com/readmeio/readme/pull/20046 
-		- [x] https://github.com/readmeio/readme/pull/20091
+        - [ ] https://github.com/readmeio/readme/pull/20139 
+        - [ ] https://github.com/readmeio/readme/pull/20140
+        - [ ] https://github.com/readmeio/readme/pull/20146
+        - [ ] https://github.com/readmeio/readme/pull/20165
     - [ ] `ai`
-        - [x] https://github.com/readmeio/ai/pull/920
-        - [x] https://github.com/readmeio/ai/pull/921
+        - [ ] https://github.com/readmeio/ai/pull/882
+        - [ ] https://github.com/readmeio/ai/pull/926
+        - [ ] https://github.com/readmeio/ai/pull/928
     - [ ] `gitto`
         - [ ] 
     - [ ] `ai-cli-runner`
-        - [ ] 
-        - [ ] 
+        - [ ] https://github.com/readmeio/ai-cli-runner/pull/105
     - [ ] `cli`
-        - [ ] 
+        - [ ] https://github.com/readmeio/cli/pull/38
 
 ## Backlog
 - [ ] Read over what anand said re: MCP onboarding
