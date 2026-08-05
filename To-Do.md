@@ -41,9 +41,10 @@
 	- [x] See the loom on it, includes the langfuse results that we're getting too
 - [x] Finished off the QA Plan
 ### Wednesday-
+- [ ] PR Reviews
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
 	- [ ] Make sure that the evals for this are good
-	- [ ] Self review PR
+	- [x] Self review PR
 	- [ ] Get anand review until passed
 	- [ ] Get anand to re-review
 - [ ] Medium response length for monorepo - make sure that this is good
