@@ -22,3 +22,7 @@
 * Keep overall simple for now
 * Focus on targeted questions
 * Make sure that the ground truth is more on the key points the ground truth needs to hit on
+- Come up with ~20 testing samples, all good quality with good metadata around it.
+
+### Judge - retrieved content disagrees with ground-truth
+- So we can catch drift better
