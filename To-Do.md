@@ -43,6 +43,7 @@
 - [x] PR Reviews
 - [ ] AskAI judge improvements
 ### Thursday
+- [ ] Get the AskAI projects setup for the QA team to use - refer to those projects for details
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
 	- [ ] See if the anand-review bot actually worked correctly: https://github.com/readmeio/ai/pull/919
 	- [ ] Add in the delta achieved time-wise b/w the 3 models used, score-wise, and cost-wise
