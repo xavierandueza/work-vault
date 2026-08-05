@@ -26,6 +26,15 @@
 
 *PR Reviews:*
 -  `readme`
+        -  https://github.com/readmeio/readme/pull/20139 
+        -  https://github.com/readmeio/readme/pull/20140
+        -  https://github.com/readmeio/readme/pull/20146
+        -  https://github.com/readmeio/readme/pull/20165
+    -  `ai`
+        - [x] https://github.com/readmeio/ai/pull/882
+        - [x] https://github.com/readmeio/ai/pull/926
+        - [x] https://github.com/readmeio/ai/pull/928
+-  `readme`
 	-  https://github.com/readmeio/readme/pull/19580 
 	-  https://github.com/readmeio/readme/pull/20046 
 	-  https://github.com/readmeio/readme/pull/20091

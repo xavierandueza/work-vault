@@ -60,14 +60,14 @@
 ## PR Reviews
 - [ ] PR Reviews
     - [ ] `readme`
-        - [ ] https://github.com/readmeio/readme/pull/20139 
-        - [ ] https://github.com/readmeio/readme/pull/20140
-        - [ ] https://github.com/readmeio/readme/pull/20146
-        - [ ] https://github.com/readmeio/readme/pull/20165
+        - [x] https://github.com/readmeio/readme/pull/20139 
+        - [x] https://github.com/readmeio/readme/pull/20140
+        - [x] https://github.com/readmeio/readme/pull/20146
+        - [x] https://github.com/readmeio/readme/pull/20165
     - [ ] `ai`
-        - [ ] https://github.com/readmeio/ai/pull/882
-        - [ ] https://github.com/readmeio/ai/pull/926
-        - [ ] https://github.com/readmeio/ai/pull/928
+        - [x] https://github.com/readmeio/ai/pull/882
+        - [x] https://github.com/readmeio/ai/pull/926
+        - [x] https://github.com/readmeio/ai/pull/928
     - [ ] `gitto`
         - [ ] 
     - [ ] `ai-cli-runner`
