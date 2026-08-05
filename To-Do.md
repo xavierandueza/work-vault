@@ -45,7 +45,7 @@
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
 	- [x] Make sure that the evals for this are good
 	- [x] Self review PR
-	- [ ] Update the pr description
+	- [x] Update the pr description
 	- [ ] Add in the delta achieved time-wise b/w the 3 models used, score-wise, and cost-wise
 	- [ ] Get anand review until passed
 	- [ ] Get Falco to re-review from scratch
