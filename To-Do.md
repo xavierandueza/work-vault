@@ -41,17 +41,16 @@
 	- [x] See the loom on it, includes the langfuse results that we're getting too
 - [x] Finished off the QA Plan
 ### Wednesday-
-- [ ] PR Reviews
-- [ ] Finish the ai seeding task - its simplified from what I was doing before:
-	- [x] Make sure that the evals for this are good
-	- [x] Self review PR
-	- [x] Update the pr description
-	- [ ] Add in the delta achieved time-wise b/w the 3 models used, score-wise, and cost-wise
-	- [ ] Get anand review until passed
-	- [ ] Get Falco to re-review from scratch
+- [x] PR Reviews
 - [ ] Medium response length for monorepo - make sure that this is good
 - [ ] AskAI judge improvements
 ### Thursday
+- [ ] Make my loops for the `readme` and `ai` repositories, on completion, assign the anand-reviewer label and give instructions around that.
+	- [ ] Update in my nix flake and rebuild it
+- [ ] Finish the ai seeding task - its simplified from what I was doing before:
+	- [ ] Add in the delta achieved time-wise b/w the 3 models used, score-wise, and cost-wise
+	- [ ] Get anand review until passed
+	- [ ] Get Falco to re-review from scratch
 - [ ] AskAI Jugde Improvements
 ### Friday
 - [ ] AskAI - get the backend to return urls in-text
