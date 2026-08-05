@@ -6,17 +6,17 @@
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
 - [x] Email Check
-- [ ] Read over the importer incoming inputs
-- [ ] Review everyone else’s updates for the day
+- [x] Read over the importer incoming inputs
+- [x] Review everyone else’s updates for the day
     - [x] AI Pod
-    - [ ] Branching Pod
-    - [ ] Enterprise bug bash pod
-    - [ ] Onboarding pod
-    - [ ] OAS (Hugo)
-- [ ] Review Linear notifications
-- [ ] Check triage tickets linear
-- [ ] Make sure deployments worked fine for my changes
-- [ ] LinkedIn check
+    - [x] Branching Pod
+    - [x] Enterprise bug bash pod
+    - [x] Onboarding pod
+    - [x] OAS (Hugo)
+- [x] Review Linear notifications
+- [x] Check triage tickets linear
+- [x] Make sure deployments worked fine for my changes
+- [x] LinkedIn check
 - [ ] Make sure my tickets for the next few days are well scoped and understood
 - [ ] Make sure that the AI repo integration tests have passed
 - [ ] Check weekday-based tasks
@@ -36,12 +36,16 @@
 - [ ] 
 ### Tuesday
 - [x] PR Reviews
-- [ ] Finished off the askAI v2 seeding work:
-	- [ ] This is all self-reviewed, opened for internal review
-	- [ ] See the loom on it, includes the langfuse results that we're getting too
+- [x] Finished off the askAI v2 seeding work:
+	- [x] This is all self-reviewed, opened for internal review
+	- [x] See the loom on it, includes the langfuse results that we're getting too
 - [x] Finished off the QA Plan
 ### Wednesday-
-- [ ] Do the langfuse evals runs again - maybe need to restart the staging server?
+- [ ] Finish the ai seeding task - its simplified from what I was doing before:
+	- [ ] Make sure that the evals for this are good
+	- [ ] Self review PR
+	- [ ] Get anand review until passed
+	- [ ] Get anand to re-review
 - [ ] Medium response length for monorepo - make sure that this is good
 - [ ] AskAI judge improvements
 ### Thursday
