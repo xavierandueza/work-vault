@@ -43,8 +43,10 @@
 - [ ] Post an update on AskAI v2 - where we're at and what needs check offs etc
 	- [unified search/askai](https://github.com/readmeio/readme/pull/19746) + [respecting locale in query suggestions](https://github.com/readmeio/readme/pull/20146)
 		- For this it seems that we just need Ryan to improve UI?
-	- [ ]  [cross project askai fix](https://github.com/readmeio/readme/pull/20036)
-	- [ ]  [ask ai button polish](https://github.com/readmeio/readme/pull/20176)
+	-  [cross project askai fix](https://github.com/readmeio/readme/pull/20036)
+		- Seems like it just needs 1x more fix from you then allg to merge
+	-  [ask ai button polish](https://github.com/readmeio/readme/pull/20176)
+		- Got eng approval just needs Ryan's eyes on
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
 	- [ ] Adress anandBot comments
 	- [ ] Re-review myself after changes go live
