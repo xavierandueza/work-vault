@@ -34,17 +34,16 @@
 ### Monday
 - [ ] 
 ### Tuesday
-- [x] PR Reviews
-- [x] Finished off the askAI v2 seeding work:
-	- [x] This is all self-reviewed, opened for internal review
-	- [x] See the loom on it, includes the langfuse results that we're getting too
-- [x] Finished off the QA Plan
+- [ ] 
 ### Wednesday-
 - [x] PR Reviews
-- [ ] AskAI judge improvements
 ### Thursday
 - [x] Get the AskAI projects setup for the QA team to use - refer to those projects for details
+- [ ] PR Reviews
 - [ ] Post an update on AskAI v2 - where we're at and what needs check offs etc
+	- [ ]  [unified search/askai](https://github.com/readmeio/readme/pull/19746) + [respecting locale in query suggestions](https://github.com/readmeio/readme/pull/20146)
+	- [ ]  [cross project askai fix](https://github.com/readmeio/readme/pull/20036)
+	- [ ]  [ask ai button polish](https://github.com/readmeio/readme/pull/20176)
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
 	- [ ] Adress anandBot comments
 	- [ ] Re-review myself after changes go live
@@ -61,14 +60,9 @@
 ## PR Reviews
 - [ ] PR Reviews
     - [ ] `readme`
-        - [x] https://github.com/readmeio/readme/pull/20139 
-        - [x] https://github.com/readmeio/readme/pull/20140
-        - [x] https://github.com/readmeio/readme/pull/20146
-        - [x] https://github.com/readmeio/readme/pull/20165
+        - [ ] 
     - [ ] `ai`
-        - [x] https://github.com/readmeio/ai/pull/882
-        - [x] https://github.com/readmeio/ai/pull/926
-        - [x] https://github.com/readmeio/ai/pull/928
+        - [ ] 
     - [ ] `gitto`
         - [ ] 
     - [ ] `ai-cli-runner`
