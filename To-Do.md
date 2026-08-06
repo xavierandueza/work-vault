@@ -47,10 +47,9 @@
 		- [ ] Made [a ticket for this](https://linear.app/readme-io/issue/RM-17820/askai-v2-handles-bad-queries) - but its not something that we should actually worry about for now since this is better than current and is a long-term improvement
 		- [ ] Fast-follow is fine but anything more is unneccessary
 - [ ] Finished the ai seeding task - its simplified from what I was doing before:
-	- [ ] Addressed anandBot comments
-	- [ ] Re-review myself after changes go live
-	- [ ] Test on the cases that I have locally for this
-	- [ ] Re-run the evals cases
+	- [ ] Addressed anandBot comments - sent anand some info on this
+	- [ ] @anand anandbot never resolved but I think its overkilling atm - assigned you for review: https://github.com/readmeio/ai/pull/919
+	- [ ] Evals re-running for v1, v2 at present
 	- [ ] Add in the delta achieved time-wise b/w the 3 models used, score-wise, and cost-wise
 	- [ ] Get anand review until passed
 - [ ] AskAI Judge/Dataset Improvements
