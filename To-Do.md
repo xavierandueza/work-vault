@@ -41,12 +41,17 @@
 - [x] Get the AskAI projects setup for the QA team to use - refer to those projects for details
 - [x] PR Reviews
 - [ ] Post an update on AskAI v2 - where we're at and what needs check offs etc
-	- [unified search/askai](https://github.com/readmeio/readme/pull/19746) + [respecting locale in query suggestions](https://github.com/readmeio/readme/pull/20146)
-		- For this it seems that we just need Ryan to improve UI?
+	- [Tool call activity fix](https://github.com/readmeio/readme/pull/19942) - this needs Ryan's UI improvements before I continue work on it
+		- [ticket for ui](https://linear.app/readme-io/issue/RM-17677/fixup-ui-for-askai-v2-tool-calling) - @ryan you moved this to done but is it actually done? We discussed that you'd tackle EOW so I thought it wasn't?
+	- [unified search/askai](https://github.com/readmeio/readme/pull/19746) 
+		- For this it seems that we just need Ryan to improve UI
+	- [respecting locale in query suggestions](https://github.com/readmeio/readme/pull/20146)
+		- Needs Readme review, AFAIK no additional UI pass?
 	-  [cross project askai fix](https://github.com/readmeio/readme/pull/20036)
-		- Seems like it just needs 1x more fix from you then allg to merge
+		- @falco is addressing issues with this today (Thurs AEST) and we can get merged tomorrow
 	-  [ask ai button polish](https://github.com/readmeio/readme/pull/20176)
-		- Got eng approval just needs Ryan's eyes on
+		- Got eng approval just needs Ryan's eyes on this
+		- @ryan
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
 	- [ ] Adress anandBot comments
 	- [ ] Re-review myself after changes go live
