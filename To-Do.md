@@ -66,9 +66,9 @@
     - [ ] `gitto`
         - [ ] 
     - [ ] `ai-cli-runner`
-        - [ ] https://github.com/readmeio/ai-cli-runner/pull/105
+        - [x] https://github.com/readmeio/ai-cli-runner/pull/105
     - [ ] `cli`
-        - [ ] https://github.com/readmeio/cli/pull/38
+        - [x] https://github.com/readmeio/cli/pull/38
 
 ## Backlog
 - [ ] Read over what anand said re: MCP onboarding
