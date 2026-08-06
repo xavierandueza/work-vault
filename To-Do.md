@@ -6,15 +6,15 @@
     - [x] Create tasks for anything that needs doing
 - [x] Email Check
 - [x] Read over the importer incoming inputs
-- [ ] Review everyone else’s updates for the day
-    - [ ] AI Pod
+- [x] Review everyone else’s updates for the day
+    - [x] AI Pod
     - [ ] Branching Pod
     - [ ] Enterprise bug bash pod
     - [ ] Onboarding pod
     - [ ] OAS (Hugo)
-- [ ] Review Linear notifications
-- [ ] Check triage tickets linear
-- [ ] Make sure deployments worked fine for my changes
+- [x] Review Linear notifications
+- [x] Check triage tickets linear
+- [x] Make sure deployments worked fine for my changes
 - [ ] LinkedIn check
 - [ ] Make sure my tickets for the next few days are well scoped and understood
 - [ ] Make sure that the AI repo integration tests have passed
@@ -46,7 +46,7 @@
 	- [unified search/askai](https://github.com/readmeio/readme/pull/19746) 
 		- For this it seems that we just need Ryan to improve UI
 	- [respecting locale in query suggestions](https://github.com/readmeio/readme/pull/20146)
-		- Needs Readme review
+		- Needs Readme review, AFAIK no additional UI pass?
 	-  [cross project askai fix](https://github.com/readmeio/readme/pull/20036)
 		- @falco is addressing issues with this today (Thurs AEST) and we can get merged tomorrow
 	-  [ask ai button polish](https://github.com/readmeio/readme/pull/20176)
