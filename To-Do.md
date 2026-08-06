@@ -3,7 +3,7 @@
 - [x] Check Calendar
 - [x] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
 - [x] Check Slack messages and threads
-    - [ ] Create tasks for anything that needs doing
+    - [x] Create tasks for anything that needs doing
 - [ ] Email Check
 - [ ] Read over the importer incoming inputs
 - [ ] Review everyone else’s updates for the day
@@ -45,10 +45,13 @@
 ### Thursday
 - [x] Get the AskAI projects setup for the QA team to use - refer to those projects for details
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
-	- [ ] See if the anand-review bot actually worked correctly: https://github.com/readmeio/ai/pull/919
+	- [ ] Adress anandBot comments
+	- [ ] Re-review myself after changes go live
+	- [ ] Test on the cases that I have locally for this
+	- [ ] Re-run the evals cases
 	- [ ] Add in the delta achieved time-wise b/w the 3 models used, score-wise, and cost-wise
 	- [ ] Get anand review until passed
-- [ ] AskAI Judge Improvements
+- [ ] AskAI Judge/Dataset Improvements
 ### Friday
 - [ ] Medium response length for monorepo - make sure that this is good
 - [ ] AskAI - get the backend to return urls in-text
