@@ -15,12 +15,11 @@
 - [x] Review Linear notifications
 - [x] Check triage tickets linear
 - [x] Make sure deployments worked fine for my changes
-- [ ] LinkedIn check
-- [ ] Make sure my tickets for the next few days are well scoped and understood
-- [ ] Make sure that the AI repo integration tests have passed
-- [ ] Check weekday-based tasks
-- [ ] PR Reviews
-- [ ] Check on my outstanding PRs
+- [x] LinkedIn check
+- [x] Make sure my tickets for the next few days are well scoped and understood
+- [x] Check weekday-based tasks
+- [x] PR Reviews
+- [x] Check on my outstanding PRs
 
 ## End of Day
 
