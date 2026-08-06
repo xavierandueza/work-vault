@@ -5,7 +5,7 @@
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
 - [x] Email Check
-- [ ] Read over the importer incoming inputs
+- [x] Read over the importer incoming inputs
 - [ ] Review everyone else’s updates for the day
     - [ ] AI Pod
     - [ ] Branching Pod
@@ -44,6 +44,7 @@
 - [ ] AskAI judge improvements
 ### Thursday
 - [x] Get the AskAI projects setup for the QA team to use - refer to those projects for details
+- [ ] Post an update on AskAI v2 - where we're at and what needs check offs etc
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
 	- [ ] Adress anandBot comments
 	- [ ] Re-review myself after changes go live
