@@ -39,9 +39,10 @@
 - [x] PR Reviews
 ### Thursday
 - [x] Get the AskAI projects setup for the QA team to use - refer to those projects for details
-- [ ] PR Reviews
+- [x] PR Reviews
 - [ ] Post an update on AskAI v2 - where we're at and what needs check offs etc
-	- [ ]  [unified search/askai](https://github.com/readmeio/readme/pull/19746) + [respecting locale in query suggestions](https://github.com/readmeio/readme/pull/20146)
+	- [unified search/askai](https://github.com/readmeio/readme/pull/19746) + [respecting locale in query suggestions](https://github.com/readmeio/readme/pull/20146)
+		- For this it seems that we just need Ryan to improve UI?
 	- [ ]  [cross project askai fix](https://github.com/readmeio/readme/pull/20036)
 	- [ ]  [ask ai button polish](https://github.com/readmeio/readme/pull/20176)
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
@@ -60,9 +61,9 @@
 ## PR Reviews
 - [ ] PR Reviews
     - [ ] `readme`
-        - [ ] 
+        - [x] https://github.com/readmeio/readme/pull/20176
     - [ ] `ai`
-        - [ ] 
+        - [x] https://github.com/readmeio/ai/pull/883 
     - [ ] `gitto`
         - [ ] 
     - [ ] `ai-cli-runner`
