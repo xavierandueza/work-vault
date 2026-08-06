@@ -20,6 +20,7 @@
 
 *Discussion*
 - Anand lol at the agent fighting one another - I think it was a worthwhile experiment but maybe on larger PR it doesn't like it...?
+- People are inputting example, example.com into importer - can we just have an example link for them...?
 
 *What I’ll be working on next:*
 - [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
