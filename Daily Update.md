@@ -15,6 +15,12 @@
 	- Evals re-running for v1, v2 at present
 	- No reason to think results will be different from what I saw before fixes, but want to be double-sure
 
+*Blockers*
+- None
+
+*Discussion*
+- Anand lol at the agent fighting one another - I think it was a worthwhile experiment but maybe on larger PR it doesn't like it...?
+
 *What I’ll be working on next:*
 - [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
 	- Get the monorepo PR up at least
