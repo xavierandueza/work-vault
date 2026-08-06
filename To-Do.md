@@ -37,10 +37,10 @@
 ### Wednesday-
 - [x] PR Reviews
 ### Thursday
-- [x] Get the AskAI projects setup for the QA team to use - refer to those projects for details
+- [x] Got the AskAI projects setup for the QA team to use - refer to those projects for details
 - [x] PR Reviews
 - [ ] Read over the importer stuff from previous day
-- [ ] Worked on dataset improvements:
+- [ ] Worked on askai dataset/judge improvements:
 	- [ ] Broke out the dataset into what's stored on disk more - we have the negative cases, the forbidden words cases, and normal cases
 	- [ ] Forbidden words are good on v1, v2
 	- [ ] Negatives (ie OOS inputs) on v1 actually doesn't perform as well - v2 performs better, aside for GPT5.6 Terra and Luna that perform equally. Good news since its not a degradation:
@@ -50,9 +50,7 @@
 	- [ ] Addressed anandBot comments - sent anand some info on this
 	- [ ] @anand anandbot never resolved but I think its overkilling atm - assigned you for review: https://github.com/readmeio/ai/pull/919
 	- [ ] Evals re-running for v1, v2 at present
-	- [ ] Add in the delta achieved time-wise b/w the 3 models used, score-wise, and cost-wise
-	- [ ] Get anand review until passed
-- [ ] AskAI Judge/Dataset Improvements
+	- [ ] No reason to think results will be different from what I saw before fixes, but want to be double-sure
 ### Friday
 - [ ] [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
 	- [ ] Get the monorepo PR up at least
@@ -62,16 +60,16 @@
 
 ## PR Reviews
 - [ ] PR Reviews
-    - [ ] `readme`
-        - [x] https://github.com/readmeio/readme/pull/20176
-    - [ ] `ai`
-        - [x] https://github.com/readmeio/ai/pull/883 
-    - [ ] `gitto`
-        - [ ] 
-    - [ ] `ai-cli-runner`
-        - [x] https://github.com/readmeio/ai-cli-runner/pull/105
-    - [ ] `cli`
-        - [x] https://github.com/readmeio/cli/pull/38
+- [ ] `readme`
+	- [x] https://github.com/readmeio/readme/pull/20176
+- [ ] `ai`
+	- [x] https://github.com/readmeio/ai/pull/883 
+- [ ] `gitto`
+	- [ ] 
+- [ ] `ai-cli-runner`
+	- [x] https://github.com/readmeio/ai-cli-runner/pull/105
+- [ ] `cli`
+	- [x] https://github.com/readmeio/cli/pull/38
 
 ## Backlog
 - [ ] Tooling via lsps like anand mentioned → see what we can add for this...
