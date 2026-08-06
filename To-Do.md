@@ -2,16 +2,16 @@
 
 - [x] Check Calendar
 - [x] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
-- [ ] Check Slack messages and threads
-    - [ ] Create tasks for anything that needs doing
-- [ ] Email Check
-- [ ] Read over the importer incoming inputs
+- [x] Check Slack messages and threads
+    - [x] Create tasks for anything that needs doing
+- [x] Email Check
 - [ ] Review everyone else’s updates for the day
     - [ ] AI Pod
     - [ ] Branching Pod
     - [ ] Enterprise bug bash pod
     - [ ] Onboarding pod
     - [ ] OAS (Hugo)
+- [ ] Read over the importer incoming inputs
 - [ ] Review Linear notifications
 - [ ] Check triage tickets linear
 - [ ] Make sure deployments worked fine for my changes
@@ -37,21 +37,11 @@
 ### Wednesday-
 - [x] PR Reviews
 ### Thursday
-- [x] Got the AskAI projects setup for the QA team to use - refer to those projects for details
-- [x] PR Reviews
-- [ ] Read over the importer stuff from previous day
-- [ ] Worked on askai dataset/judge improvements:
-	- [ ] Broke out the dataset into what's stored on disk more - we have the negative cases, the forbidden words cases, and normal cases
-	- [ ] Forbidden words are good on v1, v2
-	- [ ] Negatives (ie OOS inputs) on v1 actually doesn't perform as well - v2 performs better, aside for GPT5.6 Terra and Luna that perform equally. Good news since its not a degradation:
-		- [ ] Made [a ticket for this](https://linear.app/readme-io/issue/RM-17820/askai-v2-handles-bad-queries) - but its not something that we should actually worry about for now since this is better than current and is a long-term improvement
-		- [ ] Fast-follow is fine but anything more is unneccessary
-- [ ] Finished the ai seeding task - its simplified from what I was doing before:
-	- [ ] Addressed anandBot comments - sent anand some info on this
-	- [ ] @anand anandbot never resolved but I think its overkilling atm - assigned you for review: https://github.com/readmeio/ai/pull/919
-	- [ ] Evals re-running for v1, v2 at present
-	- [ ] No reason to think results will be different from what I saw before fixes, but want to be double-sure
+- [ ] Got the AskAI projects setup for the QA team to use - refer to those projects for details
 ### Friday
+- [ ] PR Reviews
+- [ ] Read over the importer stuff from previous day
+- [ ] Tool calling UI fixup - use w/e is on next for this UI
 - [ ] [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
 	- [ ] Get the monorepo PR up at least
 - [ ] Medium response length for monorepo
