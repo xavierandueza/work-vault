@@ -39,13 +39,23 @@
 ### Thursday
 - [x] Get the AskAI projects setup for the QA team to use - refer to those projects for details
 - [x] PR Reviews
+- [ ] Worked on dataset improvements:
+	- [ ] Broke out the dataset into what's stored on disk more - we have the negative cases, the forbidden words cases, and normal cases
+	- [ ] Forbidden words are good on v1, v2
+	- [ ] Forbidden words on v1 actually doesn't perform as well - v2 performs better, aside for GPT5.6 Terra and Luna:
+		- [ ] Made [a ticket for this](https://linear.app/readme-io/issue/RM-17820/askai-v2-handles-bad-queries) - but its not something that we should actually worry about for now since this is better than current and is a long-term improvement
+		- [ ] Fast-follow is fine but anything more is unneccessary
 - [ ] Post an update on AskAI v2 - where we're at and what needs check offs etc
-	- [Tool call activity fix](https://github.com/readmeio/readme/pull/19942) - this needs Ryan's UI improvements before I continue work on it
-		- [ticket for ui](https://linear.app/readme-io/issue/RM-17677/fixup-ui-for-askai-v2-tool-calling) - @ryan you moved this to done but is it actually done? We discussed that you'd tackle EOW so I thought it wasn't?
+	- [AskAI v2 responses shorter](https://linear.app/readme-io/issue/RM-17646/make-askai-v2-responses-shorter) 
+		- me - will be done by EOD tomorrow but goes live with release
+	- [Seed with initial data](https://linear.app/readme-io/issue/RM-17754/feed-in-vector-search-context-from-v1-pipeline-for-askai-v2-seeding) - this is still WIP - logic is all good but anandbot and my bot have been battling all day on this
+		- Not doing any more anandbot reviews and just going to get @anand to review fully now
+	- [Tool call activity fix](https://github.com/readmeio/readme/pull/19942) - this needs @ryan's UI improvements before I continue work on it
+		- [ticket for ui](https://linear.app/readme-io/issue/RM-17677/fixup-ui-for-askai-v2-tool-calling) - @ryan you moved this to done but is it actually done? From memory you said you'd have done by EOW this week is that still on-track?
 	- [unified search/askai](https://github.com/readmeio/readme/pull/19746) 
-		- For this it seems that we just need Ryan to improve UI
+		- For this it seems that we just need @ryan to improve UI is this on track for EOW completion too? Ideally we can get merged by EOW so that we can get QA testing done early next week for it
 	- [respecting locale in query suggestions](https://github.com/readmeio/readme/pull/20146)
-		- Needs Readme review, AFAIK no additional UI pass?
+		- Needs Readme review, AFAIK no additional UI pass
 	-  [cross project askai fix](https://github.com/readmeio/readme/pull/20036)
 		- @falco is addressing issues with this today (Thurs AEST) and we can get merged tomorrow
 	-  [ask ai button polish](https://github.com/readmeio/readme/pull/20176)
