@@ -39,14 +39,15 @@
 ### Thursday
 - [x] Get the AskAI projects setup for the QA team to use - refer to those projects for details
 - [x] PR Reviews
+- [ ] Read over the importer stuff from previous day
 - [ ] Worked on dataset improvements:
 	- [ ] Broke out the dataset into what's stored on disk more - we have the negative cases, the forbidden words cases, and normal cases
 	- [ ] Forbidden words are good on v1, v2
-	- [ ] Forbidden words on v1 actually doesn't perform as well - v2 performs better, aside for GPT5.6 Terra and Luna:
+	- [ ] Negatives (ie OOS inputs) on v1 actually doesn't perform as well - v2 performs better, aside for GPT5.6 Terra and Luna that perform equally. Good news since its not a degradation:
 		- [ ] Made [a ticket for this](https://linear.app/readme-io/issue/RM-17820/askai-v2-handles-bad-queries) - but its not something that we should actually worry about for now since this is better than current and is a long-term improvement
 		- [ ] Fast-follow is fine but anything more is unneccessary
-- [ ] Finish the ai seeding task - its simplified from what I was doing before:
-	- [ ] Adress anandBot comments
+- [ ] Finished the ai seeding task - its simplified from what I was doing before:
+	- [ ] Addressed anandBot comments
 	- [ ] Re-review myself after changes go live
 	- [ ] Test on the cases that I have locally for this
 	- [ ] Re-run the evals cases
@@ -54,7 +55,9 @@
 	- [ ] Get anand review until passed
 - [ ] AskAI Judge/Dataset Improvements
 ### Friday
-- [ ] Medium response length for monorepo - make sure that this is good
+- [ ] [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
+	- [ ] Get the monorepo PR up at least
+- [ ] Medium response length for monorepo
 - [ ] AskAI - get the backend to return urls in-text
 	- [ ] Note - this is something that will need some evals
 
@@ -72,8 +75,6 @@
         - [x] https://github.com/readmeio/cli/pull/38
 
 ## Backlog
-- [ ] Read over what anand said re: MCP onboarding
-    - [ ] https://moekhalil.substack.com/p/mcp-onboarding-is-the-most-exciting?utm_source=tldrfounders
 - [ ] Tooling via lsps like anand mentioned → see what we can add for this...
 - [ ] Ask everyone who's tackling a vertical - dig up the tickets that other teams can work on - probably a label on issues that are just "outsidePod" tickets:
     - [ ] So we know when people can jump in and help.
@@ -95,21 +96,6 @@
             - [ ] So I can ask how they do things, what tools they use/don't use...
     - [ ] Probably want to become a Notion power-user, so that's where everything can be stored.
         - [ ] Helps with making sure that I have all of my stuff in one place
-
-# Deadlines Agreed to
-
-* MCP Metrics:
-    * Should be testing next week
-    * **Should be ready for slow GA by 24th July**
-* Slack writer - end of next week (Fri 26th)
-* AskAI V2
-    * AskAI v2 24th July
-* AI Importer - Thursday 2nd July release - Erdman did some retesting last week again, some more feedback...
-* **_Agent Metrics - we've started gathering the data, when do we want to release?_**
-    * **_What work is actually left on this? Just UI and approvals?_**
-* Having it so that askAI can look over all public branches:
-    * This MUST wait for askAI v2, I'm not incorporating into tests and we need a clear before/after break
-
 
 # Weekdays
 
