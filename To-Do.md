@@ -46,12 +46,11 @@
 	- [unified search/askai](https://github.com/readmeio/readme/pull/19746) 
 		- For this it seems that we just need Ryan to improve UI
 	- [respecting locale in query suggestions](https://github.com/readmeio/readme/pull/20146)
-		- Needs Readme review, AFAIK no additional UI pass?
+		- Needs Readme review
 	-  [cross project askai fix](https://github.com/readmeio/readme/pull/20036)
 		- @falco is addressing issues with this today (Thurs AEST) and we can get merged tomorrow
 	-  [ask ai button polish](https://github.com/readmeio/readme/pull/20176)
-		- Got eng approval just needs Ryan's eyes on this
-		- @ryan
+		- Got eng approval just needs UX approval from @ryan?
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
 	- [ ] Adress anandBot comments
 	- [ ] Re-review myself after changes go live
