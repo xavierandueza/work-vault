@@ -56,10 +56,13 @@
 		- For this it seems that we just need @ryan to improve UI is this on track for EOW completion too? Ideally we can get merged by EOW so that we can get QA testing done early next week for it
 	- [respecting locale in query suggestions](https://github.com/readmeio/readme/pull/20146)
 		- Needs Readme review, AFAIK no additional UI pass
-	-  [cross project askai fix](https://github.com/readmeio/readme/pull/20036)
+	-  [cross project askai security fix](https://github.com/readmeio/readme/pull/20036)
 		- @falco is addressing issues with this today (Thurs AEST) and we can get merged tomorrow
+		- This is existing issue however, shouldn't block us from going live.
 	-  [ask ai button polish](https://github.com/readmeio/readme/pull/20176)
 		- Got eng approval just needs UX approval from @ryan?
+	- [AskAI v2 to include links in text](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response) rather than "related docs"
+		- Starting on this tomorrow, will have a PR up for monorepo changes if any are required so we can get merged ASAP.
 - [ ] Finish the ai seeding task - its simplified from what I was doing before:
 	- [ ] Adress anandBot comments
 	- [ ] Re-review myself after changes go live
