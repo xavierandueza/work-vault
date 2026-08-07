@@ -11,8 +11,8 @@
     - [x] Enterprise bug bash pod
     - [x] Onboarding pod
     - [x] OAS (Hugo)
-- [ ] Read over the importer incoming inputs
-- [ ] Review Linear notifications
+- [x] Read over the importer incoming inputs
+- [x] Review Linear notifications
 - [ ] Check triage tickets linear
 - [ ] Make sure deployments worked fine for my changes
 - [ ] LinkedIn check
@@ -22,9 +22,10 @@
 - [ ] Check on my outstanding PRs
 
 ### Importer Updates
-- Someone from dynadot uploaded OAS via a link
+- Someone uploaded [dynadot](https://www.dynadot.com/domain/api-document.json?mode=test) OAS via a link [here](https://readmeio.slack.com/archives/C0APNTGCP6X/p1785986280664219)
 	- @minh tagged you on the one, but this will be common that people give links to json files that we should treat as AOS candidates or ignore
 	- We formatted all as guides for now
+	- THey did actually sign in: songranli01@gmail.com
 - Someone uploded from https://humandelta.ai/ on [this one](https://readmeio.slack.com/archives/C0APNTGCP6X/p1785993396088329)
 	- No docs on their site so not really anything we could do... 
 	- Maybe for things that we realize aren't docs, we just seed for them..? Not sure what the expected behaviour is at the moment for this
@@ -35,7 +36,8 @@
 	- Not something we want to do, probably worth having an agent check the site to see if its a docs site if its not a well known docs formatted site (ie not docs.mysite.com...)
 	- CC @minh mind ticketing and getting started on this? Will help reduce costs and also help remove noise
 - Someone uploaded https://front-lms-five.vercel.app/ but this is just a non-docs site again... more evidence that we probably want to throw on this style input
-- Someone put up a link to a [phone ecom store, no docs](https://rcuk.com/)u
+- Someone put up a link to a [phone ecom store, no docs](https://rcuk.com/)
+- AirBNB one - Shea's already on it
 
 ## End of Day
 
@@ -47,6 +49,8 @@
 
 ## What I want to get done this week
 ### Monday
+- [ ] Fix up enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api)
+- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
 - [ ] 
 ### Tuesday
 - [ ] 
