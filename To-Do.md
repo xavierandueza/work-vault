@@ -43,9 +43,12 @@
 ### Friday
 - [x] PR Reviews
 - [x] Read over the importer stuff from previous day
-- [ ] Get evals results onto the ticket - v1 before/after for parity.
-	- [ ] Then v1 vs v2 before and after - just use latest v1 for good context
+- [ ] Got evals results onto the ticket - v1 before/after for parity.
+	- [ ] Added to the [PR](https://github.com/readmeio/ai/pull/919)
+	- [ ] See [google sheet](https://github.com/readmeio/ai/pull/919) for reference, TLDR cost and time now only ~35% more for v2 vs v1, before was ~75% more
+	- [ ] Will be merged + released monday b/c of the merge freeze
 - [ ] [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
+	- [ ] Got the PR up for monorepo and AI repo
 	- [ ] Review the monorepo PR
 	- [ ] Review the AI PR
 - [ ] Tool calling UI fixup - use w/e is on next for this UI
