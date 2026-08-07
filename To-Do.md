@@ -13,31 +13,13 @@
     - [x] OAS (Hugo)
 - [x] Read over the importer incoming inputs
 - [x] Review Linear notifications
-- [ ] Check triage tickets linear
-- [ ] Make sure deployments worked fine for my changes
-- [ ] LinkedIn check
-- [ ] Make sure my tickets for the next few days are well scoped and understood
-- [ ] Check weekday-based tasks
+- [x] Check triage tickets linear
+- [x] Make sure deployments worked fine for my changes
+- [x] LinkedIn check
+- [x] Make sure my tickets for the next few days are well scoped and understood
+- [x] Check weekday-based tasks
 - [ ] PR Reviews
 - [ ] Check on my outstanding PRs
-
-### Importer Updates
-- Someone uploaded [dynadot](https://www.dynadot.com/domain/api-document.json?mode=test) OAS via a link [here](https://readmeio.slack.com/archives/C0APNTGCP6X/p1785986280664219)
-	- @minh tagged you on the one, but this will be common that people give links to json files that we should treat as AOS candidates or ignore
-	- We formatted all as guides for now
-	- THey did actually sign in: songranli01@gmail.com
-- Someone uploded from https://humandelta.ai/ on [this one](https://readmeio.slack.com/archives/C0APNTGCP6X/p1785993396088329)
-	- No docs on their site so not really anything we could do... 
-	- Maybe for things that we realize aren't docs, we just seed for them..? Not sure what the expected behaviour is at the moment for this
-	- THey didn't sign in to claim their site
-- Legit import from https://developer.eftcorp.com/ on [this one](https://readmeio.slack.com/archives/C0APNTGCP6X/p1786008282263969) BUT they're [already a ReadMe customer](https://developer.eftcorp.com/)...?
-	- they signed in to claim: zewdieyihune@gmail.com
-- We did a bunch of page imports from someonewho uploaded a clothing brand store: https://coveti.com/
-	- Not something we want to do, probably worth having an agent check the site to see if its a docs site if its not a well known docs formatted site (ie not docs.mysite.com...)
-	- CC @minh mind ticketing and getting started on this? Will help reduce costs and also help remove noise
-- Someone uploaded https://front-lms-five.vercel.app/ but this is just a non-docs site again... more evidence that we probably want to throw on this style input
-- Someone put up a link to a [phone ecom store, no docs](https://rcuk.com/)
-- AirBNB one - Shea's already on it
 
 ## End of Day
 
@@ -59,8 +41,8 @@
 ### Thursday
 - [ ] Got the AskAI projects setup for the QA team to use - refer to those projects for details
 ### Friday
-- [ ] PR Reviews
-- [ ] Read over the importer stuff from previous day
+- [x] PR Reviews
+- [x] Read over the importer stuff from previous day
 - [ ] Tool calling UI fixup - use w/e is on next for this UI
 - [ ] [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
 	- [ ] Get the monorepo PR up at least
@@ -71,13 +53,12 @@
 ## PR Reviews
 - [ ] PR Reviews
 - [ ] `readme`
-	- [x] https://github.com/readmeio/readme/pull/20176
 - [ ] `ai`
-	- [x] https://github.com/readmeio/ai/pull/883 
 - [ ] `gitto`
 	- [ ] 
 - [ ] `ai-cli-runner`
 	- [x] https://github.com/readmeio/ai-cli-runner/pull/105
+	- [x] https://github.com/readmeio/ai-cli-runner/pull/106
 - [ ] `cli`
 	- [x] https://github.com/readmeio/cli/pull/38
 
