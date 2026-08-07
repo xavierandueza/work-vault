@@ -18,8 +18,7 @@
 - What do we think about the url stuff from the loom?
 
 *What I’ll be working on next:*
-- [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
-	- Get the monorepo PR up at least
+- Tool calling UI fixup - use w/e is on next for this UI
 - Medium response length for monorepo
 - AskAI - get the backend to return urls in-text
 
@@ -27,11 +26,8 @@
 * Delay risk from unified search
 
 *PR Reviews:*
-- `readme`
-	- [x] https://github.com/readmeio/readme/pull/20176
-- `ai`
-	- https://github.com/readmeio/ai/pull/883 
 - `ai-cli-runner`
 	- https://github.com/readmeio/ai-cli-runner/pull/105
+	- https://github.com/readmeio/ai-cli-runner/pull/106
 - `cli`
 	- https://github.com/readmeio/cli/pull/38
