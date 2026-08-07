@@ -45,9 +45,10 @@
 - [x] Read over the importer stuff from previous day
 - [ ] Get evals results onto the ticket - v1 before/after for parity.
 	- [ ] Then v1 vs v2 before and after - just use latest v1 for good context
-- [ ] Tool calling UI fixup - use w/e is on next for this UI
 - [ ] [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
-	- [ ] Get the monorepo PR up at least
+	- [ ] Review the monorepo PR
+	- [ ] Review the AI PR
+- [ ] Tool calling UI fixup - use w/e is on next for this UI
 - [ ] Medium response length for monorepo
 - [ ] AskAI - get the backend to return urls in-text
 	- [ ] Note - this is something that will need some evals
