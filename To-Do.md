@@ -5,12 +5,12 @@
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
 - [x] Email Check
-- [ ] Review everyone else’s updates for the day
-    - [ ] AI Pod
-    - [ ] Branching Pod
-    - [ ] Enterprise bug bash pod
-    - [ ] Onboarding pod
-    - [ ] OAS (Hugo)
+- [x] Review everyone else’s updates for the day
+    - [x] AI Pod
+    - [x] Branching Pod
+    - [x] Enterprise bug bash pod
+    - [x] Onboarding pod
+    - [x] OAS (Hugo)
 - [ ] Read over the importer incoming inputs
 - [ ] Review Linear notifications
 - [ ] Check triage tickets linear
@@ -20,6 +20,22 @@
 - [ ] Check weekday-based tasks
 - [ ] PR Reviews
 - [ ] Check on my outstanding PRs
+
+### Importer Updates
+- Someone from dynadot uploaded OAS via a link
+	- @minh tagged you on the one, but this will be common that people give links to json files that we should treat as AOS candidates or ignore
+	- We formatted all as guides for now
+- Someone uploded from https://humandelta.ai/ on [this one](https://readmeio.slack.com/archives/C0APNTGCP6X/p1785993396088329)
+	- No docs on their site so not really anything we could do... 
+	- Maybe for things that we realize aren't docs, we just seed for them..? Not sure what the expected behaviour is at the moment for this
+	- THey didn't sign in to claim their site
+- Legit import from https://developer.eftcorp.com/ on [this one](https://readmeio.slack.com/archives/C0APNTGCP6X/p1786008282263969) BUT they're [already a ReadMe customer](https://developer.eftcorp.com/)...?
+	- they signed in to claim: zewdieyihune@gmail.com
+- We did a bunch of page imports from someonewho uploaded a clothing brand store: https://coveti.com/
+	- Not something we want to do, probably worth having an agent check the site to see if its a docs site if its not a well known docs formatted site (ie not docs.mysite.com...)
+	- CC @minh mind ticketing and getting started on this? Will help reduce costs and also help remove noise
+- Someone uploaded https://front-lms-five.vercel.app/ but this is just a non-docs site again... more evidence that we probably want to throw on this style input
+	- 
 
 ## End of Day
 
