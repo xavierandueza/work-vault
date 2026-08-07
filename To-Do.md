@@ -35,7 +35,7 @@
 	- Not something we want to do, probably worth having an agent check the site to see if its a docs site if its not a well known docs formatted site (ie not docs.mysite.com...)
 	- CC @minh mind ticketing and getting started on this? Will help reduce costs and also help remove noise
 - Someone uploaded https://front-lms-five.vercel.app/ but this is just a non-docs site again... more evidence that we probably want to throw on this style input
-	- 
+- Someone put up a link to a [phone ecom store, no docs](https://rcuk.com/)u
 
 ## End of Day
 
