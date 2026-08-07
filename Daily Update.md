@@ -1,25 +1,21 @@
 *what I did:*
 - PR Reviews
-- Got the AskAI projects setup for the QA team to use - refer to those projects for details
-- PR Reviews
 - Read over the importer stuff from previous day
-- Worked on askai dataset/judge improvements:
-	- Broke out the dataset into what's stored on disk more - we have the negative cases, the forbidden words cases, and normal cases
-	- Forbidden words are good on v1, v2
-	- Negatives (ie OOS inputs) on v1 actually doesn't perform as well - v2 performs better, aside for GPT5.6 Terra and Luna that perform equally. Good news since its not a degradation:
-		- Made [a ticket for this](https://linear.app/readme-io/issue/RM-17820/askai-v2-handles-bad-queries) - but its not something that we should actually worry about for now since this is better than current and is a long-term improvement
-		- Fast-follow is fine but anything more is unneccessary
-- Finished the ai seeding task - its simplified from what I was doing before:
-	- Addressed anandBot comments - sent anand some info on this
-	- @anand anandbot never resolved but I think its overkilling atm - assigned you for review: https://github.com/readmeio/ai/pull/919
-	- Evals re-running for v1, v2 at present
-	- No reason to think results will be different from what I saw before fixes, but want to be double-sure
+- Got evals results onto the ticket - v1 before/after for parity.
+	- Added to the [PR](https://github.com/readmeio/ai/pull/919)
+	- See [google sheet](https://github.com/readmeio/ai/pull/919) for reference, TLDR cost and time now only ~35% more for v2 vs v1, before was ~75% more
+	- Will be merged + released monday b/c of the merge freeze
+- [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
+	- Got the PR up for monorepo and AI repo
+	- @ryan would be good to get your POV on how we do the links - its intentionally really soft about how we link atm, any thoughts on what works best from the [loom](https://www.loom.com/share/085e289a669b4ae69287d9e0250c439c)?
+		- Can't have a testing branch b/c needs ai deployment.
+	- Saw a small bug that I'll resolve early next week and move out for review
 
 *Blockers*
-- 
+- None - just need to know status on unified search 
 
 *Discussion*
-- 
+- What do we think about the url stuff from the loom?
 
 *What I’ll be working on next:*
 - [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
@@ -28,7 +24,7 @@
 - AskAI - get the backend to return urls in-text
 
 *Where this puts me/us:*
-* Still good for GA thursday 13th from my end, just flagging the delay risk now
+* Delay risk from unified search
 
 *PR Reviews:*
 - `readme`

@@ -49,8 +49,8 @@
 	- [ ] Will be merged + released monday b/c of the merge freeze
 - [ ] [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
 	- [ ] Got the PR up for monorepo and AI repo
-	- [ ] Review the monorepo PR
-	- [ ] Review the AI PR
+	- [ ] @ryan would be good to get your POV on how we do the links - its intentionally really soft about how we link atm, any thoughts on what works best from the [loom](https://www.loom.com/share/085e289a669b4ae69287d9e0250c439c)?
+	- [ ] Saw a small bug that I'll resolve early next week and move out for review
 - [ ] Tool calling UI fixup - use w/e is on next for this UI
 - [ ] Medium response length for monorepo
 - [ ] AskAI - get the backend to return urls in-text
