@@ -31,9 +31,12 @@
 
 ## What I want to get done this week
 ### Monday
-- [ ] Fix up enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api)
-- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
-- [ ] 
+- [ ] Do my 1:1 notes
+- [ ] Investigate the triage tickets for askAI V2 and get some help from others for any that I need to fix up
+	- [ ] Fix up enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api)
+	- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
+- [ ] Writeup for what remains for askAI V2
+	- [ ] Refer to Falco's message on this, as well as my previous message.
 ### Tuesday
 - [ ] 
 ### Wednesday-
@@ -41,12 +44,8 @@
 ### Thursday
 - [ ] Got the AskAI projects setup for the QA team to use - refer to those projects for details
 ### Friday
-- [x] PR Reviews
-- [x] Read over the importer stuff from previous day
-- [ ] Got evals results onto the ticket - v1 before/after for parity.
-	- [ ] Added to the [PR](https://github.com/readmeio/ai/pull/919)
-	- [ ] See [google sheet](https://github.com/readmeio/ai/pull/919) for reference, TLDR cost and time now only ~35% more for v2 vs v1, before was ~75% more
-	- [ ] Will be merged + released monday b/c of the merge freeze
+- [ ] PR Reviews
+- [ ] Read over the importer stuff from previous day
 - [ ] [URLs embedded in askAI v2 responses](https://linear.app/readme-io/issue/RM-17823/askai-links-in-response)
 	- [ ] Got the PR up for monorepo and AI repo
 	- [ ] @ryan would be good to get your POV on how we do the links - its intentionally really soft about how we link atm, any thoughts on what works best from the [loom](https://www.loom.com/share/085e289a669b4ae69287d9e0250c439c)?
