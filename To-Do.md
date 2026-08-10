@@ -11,8 +11,8 @@
     - [x] Enterprise bug bash pod
     - [x] Onboarding pod
     - [x] OAS (Hugo)
-- [ ] Review Linear notifications
-- [ ] Check triage tickets linear
+- [x] Review Linear notifications
+- [x] Check triage tickets linear
 - [ ] Make sure deployments worked fine for my changes
 - [ ] LinkedIn check
 - [ ] Make sure my tickets for the next few days are well scoped and understood
@@ -32,6 +32,7 @@
 ### Monday
 - [ ] Do my 1:1 notes
 - [x] Test out the fix and make sure the jobs have a ttl on them after completing.
+- [ ] Work on [this ticket here for askAI stuff](https://linear.app/readme-io/issue/CX-3809/verify-whether-ask-ai-conversation-endpoints-stay-reachable-when) - maybe another security related issue that's high prio for us to work on.
 - [ ] See if unpublished child pages are getting dragged through with most recent fixes...
 	- [ ] Fix if they are and get PR up ASAP
 - [ ] Investigate the triage tickets for askAI V2 and get some help from others for any that I need to fix up
