@@ -35,8 +35,6 @@
 - [x] Test out the fix and make sure the jobs have a ttl on them after completing.
 - [x] Review Falco PR: https://github.com/readmeio/readme/pull/20236
 - [ ] Work on [this ticket here for askAI stuff](https://linear.app/readme-io/issue/CX-3809/verify-whether-ask-ai-conversation-endpoints-stay-reachable-when) - maybe another security related issue that's high prio for us to work on.
-- [ ] See if unpublished child pages are getting dragged through with most recent fixes...
-	- [ ] Fix if they are and get PR up ASAP
 - [ ] Investigate the triage tickets for askAI V2 and get some help from others for any that I need to fix up
 	- [ ] Fix up enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api)
 	- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
