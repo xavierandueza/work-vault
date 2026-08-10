@@ -6,6 +6,7 @@
 	- Tested to make sure there's a ttl
 	* Made sure anand-review finished
 	* All good to approve
+- Got back to Kirby on her Qs re: AI writer
 - PR Reviews
 - Read over the importer stuff from previous day
 - Got evals results onto the ticket - v1 before/after for parity.
