@@ -4,6 +4,8 @@
 - Carried over claude issue for the auto-removal work
 	- Self-reviewed
 	- Tested to make sure there's a ttl
+	* Made sure anand-review finished
+	* All good to approve
 - PR Reviews
 - Read over the importer stuff from previous day
 - Got evals results onto the ticket - v1 before/after for parity.
