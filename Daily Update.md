@@ -1,12 +1,16 @@
 *what I did:*
 - Dealt with the fire for the AI job queue issue
 	- Mostly resolving the follow ons, ty to JR and Jason for jumping in and helping resolve.
-- Carried over claude issue for the auto-removal work
-	- Self-reviewed
-	- Tested to make sure there's a ttl
-	* Made sure anand-review finished
-	* All good to approve
+	- Carried over claude issue for the auto-removal work
+		- [PR for this here](https://github.com/readmeio/ai/pull/949) - tested and LGTM
 - Got back to Kirby on her Qs re: AI writer
+- [ ] PR Reviews
+- [x] Test out the fix and make sure the jobs have a ttl on them after completing.
+- [x] Review Falco PR: https://github.com/readmeio/readme/pull/20236
+- [ ] Got a PR up for the last askAI related security issue that the researcher identified. It's
+- [ ] Investigated the triage tickets for askAI V2 and get some help from others for any that I need to fix up
+	- [ ] WIP: Fix up enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api)
+	- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope) - will work on tomorrow
 - PR Reviews
 - Read over the importer stuff from previous day
 - Got evals results onto the ticket - v1 before/after for parity.
