@@ -31,7 +31,7 @@
 ## What I want to get done this week
 ### Monday
 - [ ] Do my 1:1 notes
-- [x] PR Reviews
+- [ ] PR Reviews
 - [x] Test out the fix and make sure the jobs have a ttl on them after completing.
 - [ ] Work on [this ticket here for askAI stuff](https://linear.app/readme-io/issue/CX-3809/verify-whether-ask-ai-conversation-endpoints-stay-reachable-when) - maybe another security related issue that's high prio for us to work on.
 - [ ] See if unpublished child pages are getting dragged through with most recent fixes...
