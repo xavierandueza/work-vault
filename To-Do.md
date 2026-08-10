@@ -2,8 +2,8 @@
 
 - [x] Check Calendar
 - [x] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
-- [ ] Check Slack messages and threads
-    - [ ] Create tasks for anything that needs doing
+- [x] Check Slack messages and threads
+    - [x] Create tasks for anything that needs doing
 - [ ] Email Check
 - [ ] Review everyone else’s updates for the day
     - [ ] AI Pod
@@ -30,22 +30,18 @@
 
 ## What I want to get done this week
 ### Monday
-- [ ] Do my 1:1 notes
-- [ ] PR Reviews
-- [x] Test out the fix and make sure the jobs have a ttl on them after completing.
-- [x] Review Falco PR: https://github.com/readmeio/readme/pull/20236
-- [ ] Got a PR up for the last askAI related security issue that the researcher identified. It's
-- [ ] Investigated the triage tickets for askAI V2 and get some help from others for any that I need to fix up
-	- [ ] WIP: Fix up enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api)
-	- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope) - will work on tomorrow
 ### Tuesday
-- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
-- [ ] finish work on enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api) 
+- [ ] Do my 1:1 notes
+- [ ] Get agents working for the following:
+	- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
+	- [ ] Any other askAI v2 issue
+	- [ ] finish work on enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api) 
+- [ ] Start up the work to use langfuse to get all of the information that we need - we don't actually need the retrieve tool calls
 - [ ] Tool calling UI fixup - use w/e is on next for this UI
 - [ ] Medium response length for monorepo
 - [ ] AskAI - get the backend to return urls in-text
 ### Wednesday-
-- [x] PR Reviews
+- [ ] PR Reviews
 ### Thursday
 - [ ] Got the AskAI projects setup for the QA team to use - refer to those projects for details
 ### Friday
@@ -63,18 +59,11 @@
 ## PR Reviews
 - [ ] PR Reviews
 - [ ] `readme`
-	- [ ] https://github.com/readmeio/readme/pull/20234
-	- [ ] https://github.com/readmeio/readme/pull/20226 x2
-	- [ ] https://github.com/readmeio/readme/pull/20251
-	- [ ] https://github.com/readmeio/readme/pull/20252
 - [ ] `ai`
-	- [ ] https://github.com/readmeio/ai/pull/950 x2
 - [ ] `gitto`
 	- [ ] 
 - [ ] `ai-cli-runner`
-	- [ ] https://github.com/readmeio/ai-cli-runner/pull/108
 - [ ] `cli`
-	- [ ] https://github.com/readmeio/cli/pull/39
 
 ## Backlog
 - [ ] Tooling via lsps like anand mentioned → see what we can add for this...
