@@ -5,13 +5,12 @@
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
 - [x] Email Check
-- [ ] Review everyone else’s updates for the day
-    - [ ] AI Pod
-    - [ ] Branching Pod
-    - [ ] Enterprise bug bash pod
-    - [ ] Onboarding pod
-    - [ ] OAS (Hugo)
-- [ ] Read over the importer incoming inputs
+- [x] Review everyone else’s updates for the day
+    - [x] AI Pod
+    - [x] Branching Pod
+    - [x] Enterprise bug bash pod
+    - [x] Onboarding pod
+    - [x] OAS (Hugo)
 - [ ] Review Linear notifications
 - [ ] Check triage tickets linear
 - [ ] Make sure deployments worked fine for my changes
