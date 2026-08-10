@@ -15,6 +15,7 @@
 
 *Discussion*
 - What do we think about the url stuff from the loom?
+- how do we want to handle the likely delay for the Unified search?
 
 *What I’ll be working on next:*
 - [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
