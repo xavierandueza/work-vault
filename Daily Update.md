@@ -2,6 +2,8 @@
 - Dealt with the fire for the AI job queue issue
 	- Mostly resolving the follow ons, ty to JR and Jason for jumping in and helping resolve.
 - Carried over claude issue for the auto-removal work
+	- Self-reviewed
+	- Tested to make sure there's a ttl
 - PR Reviews
 - Read over the importer stuff from previous day
 - Got evals results onto the ticket - v1 before/after for parity.

@@ -32,6 +32,7 @@
 ## What I want to get done this week
 ### Monday
 - [ ] Do my 1:1 notes
+- [ ] Test out the fix and make sure the jobs have a ttl on them after completing.
 - [ ] Investigate the triage tickets for askAI V2 and get some help from others for any that I need to fix up
 	- [ ] Fix up enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api)
 	- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
