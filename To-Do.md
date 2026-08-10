@@ -66,11 +66,15 @@
 	- [ ] https://github.com/readmeio/readme/pull/20234
 	- [ ] https://github.com/readmeio/readme/pull/20226 x2
 	- [ ] https://github.com/readmeio/readme/pull/20251
+	- [ ] https://github.com/readmeio/readme/pull/20252
 - [ ] `ai`
+	- [ ] https://github.com/readmeio/ai/pull/950 x2
 - [ ] `gitto`
 	- [ ] 
 - [ ] `ai-cli-runner`
+	- [ ] https://github.com/readmeio/ai-cli-runner/pull/108
 - [ ] `cli`
+	- [ ] https://github.com/readmeio/cli/pull/39
 
 ## Backlog
 - [ ] Tooling via lsps like anand mentioned → see what we can add for this...
