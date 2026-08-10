@@ -17,7 +17,7 @@
 - [x] LinkedIn check
 - [x] Make sure my tickets for the next few days are well scoped and understood
 - [x] Check weekday-based tasks
-- [ ] PR Reviews
+- [x] PR Reviews
 - [ ] Check on my outstanding PRs
 
 ## End of Day
@@ -31,10 +31,8 @@
 ## What I want to get done this week
 ### Monday
 - [ ] Do my 1:1 notes
+- [x] PR Reviews
 - [x] Test out the fix and make sure the jobs have a ttl on them after completing.
-- [ ] Spin something out to investigate this:
-	- [ ] https://linear.app/readme-io/issue/CX-3805/endpoints-set-to-hidden-in-the-editor-remain-visible-in-the-public
-	- [ ] BUT TEST MANUALLY FIRST
 - [ ] Work on [this ticket here for askAI stuff](https://linear.app/readme-io/issue/CX-3809/verify-whether-ask-ai-conversation-endpoints-stay-reachable-when) - maybe another security related issue that's high prio for us to work on.
 - [ ] See if unpublished child pages are getting dragged through with most recent fixes...
 	- [ ] Fix if they are and get PR up ASAP
@@ -65,15 +63,13 @@
 - [ ] PR Reviews
 - [ ] `readme`
 	- [ ] https://github.com/readmeio/readme/pull/20234
-	- [ ] https://github.com/readmeio/readme/pull/20234
+	- [ ] https://github.com/readmeio/readme/pull/20226
+	- [ ] https://github.com/readmeio/readme/pull/20251
 - [ ] `ai`
 - [ ] `gitto`
 	- [ ] 
 - [ ] `ai-cli-runner`
-	- [x] https://github.com/readmeio/ai-cli-runner/pull/105
-	- [x] https://github.com/readmeio/ai-cli-runner/pull/106
 - [ ] `cli`
-	- [x] https://github.com/readmeio/cli/pull/38
 
 ## Backlog
 - [ ] Tooling via lsps like anand mentioned → see what we can add for this...
