@@ -41,6 +41,9 @@
 ### Tuesday
 - [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
 - [ ] finish work on enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api) 
+- [ ] Tool calling UI fixup - use w/e is on next for this UI
+- [ ] Medium response length for monorepo
+- [ ] AskAI - get the backend to return urls in-text
 ### Wednesday-
 - [x] PR Reviews
 ### Thursday
