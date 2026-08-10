@@ -1,7 +1,7 @@
 ## Start of Day
 
 - [x] Check Calendar
-- [ ] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
+- [x] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
 - [ ] Check Slack messages and threads
     - [ ] Create tasks for anything that needs doing
 - [ ] Email Check
