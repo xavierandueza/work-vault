@@ -4,7 +4,7 @@
 - [x] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
-- [ ] Email Check
+- [x] Email Check
 - [ ] Review everyone else’s updates for the day
     - [ ] AI Pod
     - [ ] Branching Pod
@@ -32,7 +32,9 @@
 ## What I want to get done this week
 ### Monday
 - [ ] Do my 1:1 notes
-- [ ] Test out the fix and make sure the jobs have a ttl on them after completing.
+- [x] Test out the fix and make sure the jobs have a ttl on them after completing.
+- [ ] See if unpublished child pages are getting dragged through with most recent fixes...
+	- [ ] Fix if they are and get PR up ASAP
 - [ ] Investigate the triage tickets for askAI V2 and get some help from others for any that I need to fix up
 	- [ ] Fix up enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api)
 	- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
