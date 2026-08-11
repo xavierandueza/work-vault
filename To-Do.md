@@ -64,16 +64,16 @@ FOR UPDATE
 	- [ ] Note - this is something that will need some evals
 
 ## PR Reviews
-- [ ] `readme`
-	- [x] https://github.com/readmeio/readme/pull/20148
-	- [x] https://github.com/readmeio/readme/pull/20209
-	- [x] https://github.com/readmeio/readme/pull/20220
-	- [x] https://github.com/readmeio/readme/pull/20228
-- [ ] `ai`
-	- [x] https://github.com/readmeio/ai/pull/936
-	- [x] https://github.com/readmeio/ai/pull/941
-	- [x] https://github.com/readmeio/ai/pull/954
-	- [x] https://github.com/readmeio/ai/pull/956
+- `readme`
+	- https://github.com/readmeio/readme/pull/20148
+	- https://github.com/readmeio/readme/pull/20209
+	- https://github.com/readmeio/readme/pull/20220
+	- https://github.com/readmeio/readme/pull/20228
+- `ai`
+	- https://github.com/readmeio/ai/pull/936
+	- https://github.com/readmeio/ai/pull/941
+	- https://github.com/readmeio/ai/pull/954
+	- https://github.com/readmeio/ai/pull/956
 - [ ] `gitto`
 	- [ ] 
 - [ ] `ai-cli-runner`
