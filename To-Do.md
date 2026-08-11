@@ -69,12 +69,12 @@ FOR UPDATE
 	- [x] https://github.com/readmeio/readme/pull/20148
 	- [x] https://github.com/readmeio/readme/pull/20209
 	- [x] https://github.com/readmeio/readme/pull/20220
-	- [ ] https://github.com/readmeio/readme/pull/20228
+	- [x] https://github.com/readmeio/readme/pull/20228
 - [ ] `ai`
-	- [ ] https://github.com/readmeio/ai/pull/936
-	- [ ] https://github.com/readmeio/ai/pull/941
-	- [ ] https://github.com/readmeio/ai/pull/954
-	- [ ] https://github.com/readmeio/ai/pull/956
+	- [x] https://github.com/readmeio/ai/pull/936
+	- [x] https://github.com/readmeio/ai/pull/941
+	- [x] https://github.com/readmeio/ai/pull/954
+	- [x] https://github.com/readmeio/ai/pull/956
 - [ ] `gitto`
 	- [ ] 
 - [ ] `ai-cli-runner`
