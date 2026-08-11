@@ -32,7 +32,7 @@
 ### Monday
 ### Tuesday
 - [ ] Do my 1:1 notes
-- [ ] Make sure that this gets merged + over the line: https://github.com/readmeio/readme/pull/20269
+- [x] Make sure that this gets merged + over the line: https://github.com/readmeio/readme/pull/20269
 - [ ] Get agents working for the following:
 	- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
 		- [ ] Note - this was probably an issue that'll be resolved with another merge, the inheriting v2 from parent issue. 
