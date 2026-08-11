@@ -5,7 +5,7 @@
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
 - [x] Email Check
-- [ ] Review everyone else’s updates for the day
+- [x] Review everyone else’s updates for the day
     - [x] AI Pod
     - [x] Branching Pod
     - [x] Enterprise bug bash pod
@@ -17,7 +17,7 @@
 - [x] LinkedIn check
 - [x] Make sure my tickets for the next few days are well scoped and understood
 - [x] Check weekday-based tasks
-- [ ] PR Reviews
+- [x] PR Reviews
 - [ ] Check on my outstanding PRs
 
 ## End of Day
@@ -62,7 +62,6 @@ FOR UPDATE
 - [ ] Medium response length for monorepo
 - [ ] AskAI - get the backend to return urls in-text
 	- [ ] Note - this is something that will need some evals
-
 
 ## PR Reviews
 - [ ] `readme`
