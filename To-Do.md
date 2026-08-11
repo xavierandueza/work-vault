@@ -67,8 +67,8 @@ FOR UPDATE
 ## PR Reviews
 - [ ] `readme`
 	- [x] https://github.com/readmeio/readme/pull/20148
-	- [ ] https://github.com/readmeio/readme/pull/20209
-	- [ ] https://github.com/readmeio/readme/pull/20220
+	- [x] https://github.com/readmeio/readme/pull/20209
+	- [x] https://github.com/readmeio/readme/pull/20220
 	- [ ] https://github.com/readmeio/readme/pull/20228
 - [ ] `ai`
 	- [ ] https://github.com/readmeio/ai/pull/936
