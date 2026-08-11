@@ -35,11 +35,11 @@
 - [x] Make sure that this gets merged + over the line: https://github.com/readmeio/readme/pull/20269
 - [ ] Follow-up ticket for the askAI work - on disabled the other endpoint should be disabled just like what we do with the other one
 - [ ] Get agents working for the following:
-	- [ ] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
+	- [x] [Project-scoped knowledge issue](https://linear.app/readme-io/issue/RM-17829/ask-ai-does-not-pull-answers-from-child-projects-when-project-scope)
 		- [x] Note - this was probably an issue that'll be resolved with another merge, the inheriting v2 from parent issue. 
 		- [x] Check on prod after this goes live.
 	- [ ] Any other askAI v2 issue
-	- [ ] finish work on enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api) 
+	- [x] finish work on enterprise projects not getting their [custom prompts from parent projects](https://linear.app/readme-io/issue/RM-17831/custom-prompt-ignored-on-enterprise-projects-ask-ai-api) 
 - [ ] Start up the work to use langfuse to get all of the information that we need - we don't actually need the retrieve tool calls
 - [ ] Tool calling UI fixup - use w/e is on next for this UI
 - [ ] Medium response length for monorepo
