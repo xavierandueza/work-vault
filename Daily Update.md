@@ -1,4 +1,5 @@
 *what I did:*
+- Got the [PR up ](https://github.com/readmeio/readme/pull/20269)for the final part of the security issue, merged.
 - Dealt with the fire for the AI job queue issue
 	- Mostly resolving the follow ons, ty to JR and Jason for jumping in and helping resolve.
 	- Carried over claude issue for the auto-removal work
