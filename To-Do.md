@@ -44,6 +44,9 @@
 - [ ] Tool calling UI fixup - use w/e is on next for this UI
 - [ ] Medium response length for monorepo
 - [ ] AskAI - get the backend to return urls in-text
+
+FOR UPDATE
+- Note that I actually don't know how the `readme-enterprise` works in terms of the db - I don't know how this could impact results... Is it different somehow?
 ### Wednesday-
 - [ ] PR Reviews
 ### Thursday
@@ -59,6 +62,7 @@
 - [ ] Medium response length for monorepo
 - [ ] AskAI - get the backend to return urls in-text
 	- [ ] Note - this is something that will need some evals
+
 
 ## PR Reviews
 - [ ] `readme`
