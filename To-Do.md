@@ -62,7 +62,7 @@
 
 ## PR Reviews
 - [ ] `readme`
-	- [ ] https://github.com/readmeio/readme/pull/20148
+	- [x] https://github.com/readmeio/readme/pull/20148
 	- [ ] https://github.com/readmeio/readme/pull/20209
 	- [ ] https://github.com/readmeio/readme/pull/20220
 	- [ ] https://github.com/readmeio/readme/pull/20228
