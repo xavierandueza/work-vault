@@ -45,6 +45,7 @@
 	- [ ] Any other askAI v2 issue
 - [ ] PR Reviews
 - [ ] Do my 1:1 notes
+- [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
 ### Thursday
 - [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
 - [ ] Create a skill that's used to inspect the ai service and interactions security related concerns
