@@ -32,12 +32,6 @@
 ### Tuesday
 - [ ] 
 ### Wednesday
-- [ ] For askAI v2 we didn't disable the hub endpoint when ask. Security adjacent if we can get reviewed quickly cc @anand [PR](https://github.com/readmeio/ai/pull/946) 
-- [ ] Tool call UI bug where between text chunks tool calls weren't rendering - PR here.
-	- [ ] @ryan if you don't mind looking at the UI in the [loom](https://www.loom.com/share/fc48c2938ff64be2a7b6362562e61659) (skip past code showing part). Any issues lmk and I'll fixup ASAP
-- [ ] AskAI - get the backend to return urls in-text
-	- [ ] [AI side](https://github.com/readmeio/ai/pull/946) is good for review
-	- [ ] [monorepo side](https://github.com/readmeio/ai/pull/946) also good for review, but needs an sdk bump
 - [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
 	- [ ] Up for internal review, but still need to complete testing for this
 	- [ ] Testing:
@@ -50,6 +44,9 @@
 - [ ] Do my 1:1 notes
 - [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
 ### Thursday
+- [ ] Security related ticket -> go ahead and merge if all good
+- [ ] Bump ryan for UI feedback if he hasn't got to it, check PR that its on
+- [ ] Check on the askAI links returned in body
 - [ ] See why this is still getting reprod from the thread: https://readmeio.slack.com/archives/C0B03RUTE93/p1786498263398219
 - [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
 - [ ] Create a skill that's used to inspect the ai service and interactions security related concerns
