@@ -33,6 +33,11 @@
 - [ ] 
 ### Wednesday
 - [ ] Follow-up ticket for the askAI work - on disabled the other endpoint should be disabled just like what we do with the other one
+	- [ ] make sure that the anand review passes.
+	- [ ] Test
+	- [ ] Record loom
+	- [ ] Get internal reviews high prio
+	- [ ] Then open up for external reviews
 - [ ] Medium response length for monorepo
 - [ ] AskAI - get the backend to return urls in-text
 - [ ] Get agents working for the following:
