@@ -54,6 +54,13 @@
 		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
 	- [ ] Need to coordinate this into a PR that will merge right before we go live - this will be part of it
 - [ ] AskAI - get the backend to return urls in-text - finish this
+	- [ ] AI:
+		- [ ] Make sure that checks pass: https://github.com/readmeio/ai/pull/946
+		- [ ] Get anandBot review
+	- [ ] monorepo: https://github.com/readmeio/readme/pull/20224
+		- [ ] Make sure that checks pass
+		- [ ] get anandbot review
+		- [ ] 
 - [ ] Get agents working for the following:
 	- [ ] Any other askAI v2 issue
 - [ ] PR Reviews
