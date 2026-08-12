@@ -45,14 +45,13 @@
 	- [x] check again v2
 	- [x] self-review, check again quickly
 - [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
-	- [ ] Ensure that the tests are passing, then get anandbot to review
+	- [ ] Up for internal review, but still need to complete testing for this
 	- [ ] Testing:
 		- [ ] Project on legacy business doesn't change (thats askAI full)
 		- [ ] Project on askAI lite does change
 		- [ ] Project on askAI full doesn't change
 		- [ ] that when the setting is undefined on a project in UI it is medium
 		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
-	- [ ] Need to coordinate this into a PR that will merge right before we go live - this will be part of it
 - [ ] AskAI - get the backend to return urls in-text - finish this
 	- [ ] AI:
 		- [ ] Make sure that checks pass: https://github.com/readmeio/ai/pull/946
