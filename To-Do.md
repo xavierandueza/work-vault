@@ -35,8 +35,8 @@
 - [ ] Ping the qa testers to test out the latest code for issues identified.
 - [ ] Follow-up ticket for the askAI work - on disabled the other endpoint should be disabled just like what we do with the other one
 	- [x] make sure that the anand review passes.
-	- [ ] Test
-	- [ ] Record loom
+	- [x] Test
+	- [x] Record loom
 	- [ ] Get internal reviews high prio
 	- [ ] Then open up for external reviews
 - [ ] Medium response length for monorepo
