@@ -39,12 +39,13 @@
 	- [ ] Get internal reviews high prio
 	- [ ] Then open up for external reviews
 - [ ] Medium response length for monorepo
-- [ ] AskAI - get the backend to return urls in-text
+- [ ] AskAI - get the backend to return urls in-text - finish this
 - [ ] Get agents working for the following:
 	- [ ] Any other askAI v2 issue
 - [ ] PR Reviews
 - [ ] Do my 1:1 notes
 ### Thursday
+- [ ] Create a skill that's used to inspect the ai service and interactions security related concerns
 
 ### Friday
 - [ ] PR Reviews
