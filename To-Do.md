@@ -40,7 +40,8 @@
 	- [x] Get internal reviews high prio
 	- [x] Then open up for external reviews
 	- [ ] @anand tagging for visibility, security-adjacent so would be good to get merged soon: https://github.com/readmeio/readme/pull/20279
-- [ ] Tool call UI
+- [ ] Tool call UI -> get ready for review
+	- [ ] Anand review bot
 - [ ] Medium response length for monorepo
 - [ ] AskAI - get the backend to return urls in-text - finish this
 - [ ] Get agents working for the following:
