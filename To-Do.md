@@ -32,7 +32,6 @@
 ### Tuesday
 - [ ] 
 ### Wednesday
-- [ ] Ping the qa testers to test out the latest code for issues identified.
 - [ ] For askAI v2 we didn't disable the hub endpoint when ask. Security adjacent if we can get reviewed quickly cc @anand [PR](https://github.com/readmeio/ai/pull/946) 
 - [ ] Tool call UI bug where between text chunks tool calls weren't rendering - PR here.
 	- [ ] @ryan if you don't mind looking at the UI in the [loom](https://www.loom.com/share/fc48c2938ff64be2a7b6362562e61659) (skip past code showing part). Any issues lmk and I'll fixup ASAP
