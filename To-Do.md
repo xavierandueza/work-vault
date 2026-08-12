@@ -53,15 +53,8 @@
 		- [ ] that when the setting is undefined on a project in UI it is medium
 		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
 - [ ] AskAI - get the backend to return urls in-text - finish this
-	- [ ] AI:
-		- [ ] Make sure that checks pass: https://github.com/readmeio/ai/pull/946
-		- [ ] Get anandBot review
-	- [ ] monorepo: https://github.com/readmeio/readme/pull/20224
-		- [ ] Make sure that checks pass
-		- [ ] get anandbot review
-		- [ ] 
-- [ ] Get agents working for the following:
-	- [ ] Any other askAI v2 issue
+	- [ ] [AI side](https://github.com/readmeio/ai/pull/946) is good for review
+	- [ ] [monorepo side](https://github.com/readmeio/ai/pull/946) also good for review, but needs an sdk bump
 - [ ] PR Reviews
 - [ ] Do my 1:1 notes
 - [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
