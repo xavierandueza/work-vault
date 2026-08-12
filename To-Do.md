@@ -47,6 +47,7 @@
 - [ ] Security related ticket -> go ahead and merge if all good
 - [ ] Bump ryan for UI feedback if he hasn't got to it, check PR that its on
 - [ ] Check on the askAI links returned in body
+- [ ] Review OAS trn
 - [ ] See why this is still getting reprod from the thread: https://readmeio.slack.com/archives/C0B03RUTE93/p1786498263398219
 - [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
 - [ ] Create a skill that's used to inspect the ai service and interactions security related concerns
