@@ -1,5 +1,10 @@
 ```ts
-let messageId =`${Date.now()}-${Math.random().toString(16).slice(2)}`;
+const uuid = () =>
+ typeof crypto.randomUUID === 'function'
+   ? crypto.randomUUID()
+   : `${Date.now()}-${Math.random().toString(16).slice(2)}`;
+
+let messageId = uuid();
 let question = 'How do I authenticate?';
 let subdomain = 'subdomain';
 
@@ -18,7 +23,7 @@ let response = await fetch(`/${subdomain}/api-next/v2/owlbot/conversation`, {
       },
     ],
     question,
-    chat_id: crypto.randomUUID(),
+    chat_id: uuid(),
     message_id: messageId,
   }),
 });

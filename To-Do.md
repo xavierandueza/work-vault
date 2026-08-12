@@ -32,6 +32,7 @@
 ### Tuesday
 - [ ] 
 ### Wednesday
+- [ ] Ping the qa testers to test out the latest code for issues identified.
 - [ ] Follow-up ticket for the askAI work - on disabled the other endpoint should be disabled just like what we do with the other one
 	- [x] make sure that the anand review passes.
 	- [ ] Test
@@ -45,6 +46,7 @@
 - [ ] PR Reviews
 - [ ] Do my 1:1 notes
 ### Thursday
+- [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
 - [ ] Create a skill that's used to inspect the ai service and interactions security related concerns
 
 ### Friday
