@@ -39,6 +39,7 @@
 	- [x] Record loom
 	- [ ] Get internal reviews high prio
 	- [ ] Then open up for external reviews
+- [ ] Tool call UI
 - [ ] Medium response length for monorepo
 - [ ] AskAI - get the backend to return urls in-text - finish this
 - [ ] Get agents working for the following:
