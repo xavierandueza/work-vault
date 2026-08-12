@@ -41,12 +41,18 @@
 	- [x] Then open up for external reviews
 	- [ ] @anand tagging for visibility, security-adjacent so would be good to get merged soon: https://github.com/readmeio/readme/pull/20279
 - [ ] Tool call UI -> get ready for review
-	- [ ] check on anand review + status soon
-- [ ] Medium response length for monorepo
+	- [x] check on anand review + status soon
+	- [x] check again v2
+	- [x] self-review, check again quickly
+- [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
+	- [ ] Ensure that the tests are passing, then get anandbot to review
 	- [ ] Testing:
 		- [ ] Project on legacy business doesn't change (thats askAI full)
 		- [ ] Project on askAI lite does change
 		- [ ] Project on askAI full doesn't change
+		- [ ] that when the setting is undefined on a project in UI it is medium
+		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
+	- [ ] Need to coordinate this into a PR that will merge right before we go live - this will be part of it
 - [ ] AskAI - get the backend to return urls in-text - finish this
 - [ ] Get agents working for the following:
 	- [ ] Any other askAI v2 issue
