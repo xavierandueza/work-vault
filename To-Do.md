@@ -43,6 +43,10 @@
 - [ ] Tool call UI -> get ready for review
 	- [ ] check on anand review + status soon
 - [ ] Medium response length for monorepo
+	- [ ] Testing:
+		- [ ] Project on legacy business doesn't change (thats askAI full)
+		- [ ] Project on askAI lite does change
+		- [ ] Project on askAI full doesn't change
 - [ ] AskAI - get the backend to return urls in-text - finish this
 - [ ] Get agents working for the following:
 	- [ ] Any other askAI v2 issue
