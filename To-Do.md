@@ -59,15 +59,15 @@
 	- [ ] Note - this is something that will need some evals
 
 ## PR Reviews
-- `readme`
-	- https://github.com/readmeio/readme/pull/20253
-	- https://github.com/readmeio/readme/pull/20281
-	- https://github.com/readmeio/readme/pull/20284
-	- https://github.com/readmeio/readme/pull/20325
-	- https://github.com/readmeio/readme/pull/20326 -> TOP PRIO
-	- https://github.com/readmeio/readme/pull/20334 -> TOP PRIO
-- `ai`
-	- https://github.com/readmeio/ai/pull/958 -> ditto don't do this one yet
+- [ ] `readme`
+	- [ ] https://github.com/readmeio/readme/pull/20253
+	- [ ] https://github.com/readmeio/readme/pull/20281
+	- [ ] https://github.com/readmeio/readme/pull/20284
+	- [ ] https://github.com/readmeio/readme/pull/20325
+	- [ ] https://github.com/readmeio/readme/pull/20326 -> TOP PRIO
+	- [ ] https://github.com/readmeio/readme/pull/20334 -> TOP PRIO
+- [ ] `ai`
+	- [ ] https://github.com/readmeio/ai/pull/958 -> ditto don't do this one yet
 - [ ] `gitto`
 	- [ ] 
 - [ ] `ai-cli-runner`
