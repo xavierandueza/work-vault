@@ -8,8 +8,7 @@
 ***AskAI v2***
 * Thursday 20th release b/c of unified search work
 - Links coming from backend after ai release tomorrow, meaning all v2 core features done
-	- 1 small improvement on monorepo
-- 
+- Unified search - need an update on this in standup tomorrow
 
 ***Blockers***
 - None
@@ -31,7 +30,13 @@
 
 ***PR Reviews:***
 - `readme`
-	- https://github.com/readmeio/readme/pull/20253
-	- https://github.com/readmeio/readme/pull/20281
-- `ai-cli-runner`
-	- https://github.com/readmeio/ai-cli-runner/pull/109
+	- https://github.com/readmeio/readme/pull/20350
+	- https://github.com/readmeio/readme/pull/20284
+	- https://github.com/readmeio/readme/pull/20325
+	- https://github.com/readmeio/readme/pull/20342
+	- https://github.com/readmeio/readme/pull/19598
+- `ai`
+	- https://github.com/readmeio/ai/pull/964
+	- https://github.com/readmeio/ai/pull/958
+	- https://github.com/readmeio/ai/pull/966
+	- https://github.com/readmeio/ai/pull/962
