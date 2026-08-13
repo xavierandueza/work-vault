@@ -36,11 +36,6 @@
 - [ ] Do my 1:1 notes
 - [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
 ### Thursday
-- [ ] Bunch of PR reviews
-- [ ] Got a [fix up for a minor security issue](https://github.com/readmeio/readme/pull/20365) - if someone has a file key for an editor chat upload that they don't have access to, and guess a file name that exists for something that was uploaded to the AI editor they could gain information (via the LLM) about that file
-- [ ] Gave some thought on how docs audit might be best to work long-term.
-- [ ] Review Christian's PRs for AI and Monorepo, script pr is separate
-- [ ] Security related ticket -> go ahead and merge if all good
 - [ ] Got Ryan's ui :check: on tool call bug fix:
 	- [ ] retested after anand changes
 	- [ ] all good to go, merged
@@ -63,6 +58,7 @@
 
 ### Friday
 - [ ] PR Reviews
+- [ ] Carry over the [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) 
 - [ ] AskAI - get the backend to return urls in-text
 	- [ ] Note - this is something that will need some evals
 
