@@ -1,20 +1,15 @@
 *what I did:*
+- Bunch of PR reviews
+- Got a [fix up for a minor security issue](https://github.com/readmeio/readme/pull/20365) - if someone has a file key for an editor chat upload that they don't have access to, and guess a file name that exists for something that was uploaded to the AI editor they could gain information (via the LLM) about that file
+- Gave some thought on how docs audit might be best to work long-term.
 - For askAI v2 we didn't disable the hub endpoint when ask. Security adjacent if we can get reviewed quickly cc @anand [PR](https://github.com/readmeio/ai/pull/946) 
-- Tool call UI bug where between text chunks tool calls weren't rendering - PR here.
-	- @ryan if you don't mind looking at the UI in the [loom](https://www.loom.com/share/fc48c2938ff64be2a7b6362562e61659) (skip past code showing part). Any issues lmk and I'll fixup ASAP
-- AskAI - get the backend to return urls in-text
-	- [AI side](https://github.com/readmeio/ai/pull/946) is good for review
-	- [monorepo side](https://github.com/readmeio/ai/pull/946) also good for review, but needs an sdk bump
-- [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
-	- Up for internal review, but still need to complete testing for this
-- PR Reviews
 
 *Blockers*
-- Need feedback on the [loom](https://www.loom.com/share/fc48c2938ff64be2a7b6362562e61659)  for tool calls from you @ryan - its same as what we currently have just want to make sure you're all good with it.
+- 
 
 *Discussion*
 - `owlbot.enabled = false` currently does not disable the API - intentional. Dan asked if we could have a "disable on api" asw - akamai might want this but they might also just be a bit spooked atm.
-- None
+- Docs Audit thoughts
 
 *What I’ll be working on next:*
 - Medium response length for monorepo - testing
