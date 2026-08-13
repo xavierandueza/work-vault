@@ -36,9 +36,14 @@
 - [ ] Do my 1:1 notes
 - [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
 ### Thursday
-- [ ] Reviewed anand's 2x tickets
+- [x] Reviewed anand's 2x tickets
+- [ ] Review Christian's PRs for AI and Monorepo, script pr is separate
 - [ ] Security related ticket -> go ahead and merge if all good
-- [ ] Bump ryan for UI feedback if he hasn't got to it, check PR that its on
+- [ ] Got Ryan's ui :check: on tool call bug fix:
+	- [ ] retested after anand changes
+	- [ ] all good to go, merged
+- [ ] Check on the askAI links returned in body - bump with falco and alvin if not reviewed yet
+- [ ] Review OAS ticket that falco has setup
 - [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
 	- [ ] Up for internal review, but still need to complete testing for this
 	- [ ] Testing:
@@ -47,8 +52,6 @@
 		- [ ] Project on askAI full doesn't change
 		- [ ] that when the setting is undefined on a project in UI it is medium
 		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
-- [ ] Check on the askAI links returned in body
-- [ ] Review OAS ticket that falco has setup
 - [ ] Look at the stuff that they laid out for the agent resolution of the merge conflicts:
 	- [ ] do we have a recipe edit tool?
 		- [ ] If not its needed and we'll have to put it in
@@ -63,18 +66,11 @@
 
 ## PR Reviews
 - [ ] `readme`
-	- [ ] https://github.com/readmeio/readme/pull/20253
-	- [ ] https://github.com/readmeio/readme/pull/20281
-	- [ ] https://github.com/readmeio/readme/pull/20284
-	- [ ] https://github.com/readmeio/readme/pull/20325
-	- [ ] https://github.com/readmeio/readme/pull/20326 -> TOP PRIO
-	- [ ] https://github.com/readmeio/readme/pull/20334 -> TOP PRIO
-- [ ] `ai`
-	- [ ] https://github.com/readmeio/ai/pull/958 -> ditto don't do this one yet
-- [ ] `gitto`
 	- [ ] 
+- [ ] `ai`
+	- [ ] 
+- [ ] `gitto`
 - [ ] `ai-cli-runner`
-	- [ ] https://github.com/readmeio/ai-cli-runner/pull/109
 - [ ] `cli`
 
 ## Backlog
