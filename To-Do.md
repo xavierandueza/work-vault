@@ -32,6 +32,13 @@
 ### Tuesday
 - [ ] 
 ### Wednesday
+- [ ] PR Reviews
+- [ ] Do my 1:1 notes
+- [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
+### Thursday
+- [ ] Reviewed anand's 2x tickets
+- [ ] Security related ticket -> go ahead and merge if all good
+- [ ] Bump ryan for UI feedback if he hasn't got to it, check PR that its on
 - [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
 	- [ ] Up for internal review, but still need to complete testing for this
 	- [ ] Testing:
@@ -40,12 +47,6 @@
 		- [ ] Project on askAI full doesn't change
 		- [ ] that when the setting is undefined on a project in UI it is medium
 		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
-- [ ] PR Reviews
-- [ ] Do my 1:1 notes
-- [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
-### Thursday
-- [ ] Security related ticket -> go ahead and merge if all good
-- [ ] Bump ryan for UI feedback if he hasn't got to it, check PR that its on
 - [ ] Check on the askAI links returned in body
 - [ ] Review OAS ticket that falco has setup
 - [ ] Look at the stuff that they laid out for the agent resolution of the merge conflicts:
