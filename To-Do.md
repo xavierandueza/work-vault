@@ -36,6 +36,8 @@
 - [ ] Do my 1:1 notes
 - [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
 ### Thursday
+- [ ] Got a fix up for a minor security issue - if someone has a projectId that they don't have access to, and guess a file name that exists for something that was uploaded to the AI editor they could gain information (via the LLM) about that file
+	- [ ] 
 - [ ] Get onto this issue here: https://linear.app/readme-io/issue/RM-17890/missing-ownership-check-on-chat-editor-file-attachment-signed-urls
 - [ ] Think on how we're going to fix docs audit - think best practice for product for this
 - [ ] Get back to Phoebe on her question
