@@ -68,6 +68,7 @@
 ## PR Reviews
 - [ ] `readme`
 	- [ ] https://github.com/readmeio/readme/pull/20350
+	- [ ] https://github.com/readmeio/ai/pull/958
 - [ ] `ai`
 	- [ ] https://github.com/readmeio/ai/pull/964
 - [ ] `gitto`
