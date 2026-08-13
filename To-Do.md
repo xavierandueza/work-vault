@@ -33,20 +33,8 @@
 - [ ] 
 ### Wednesday
 - [ ] PR Reviews
-- [ ] Do my 1:1 notes
-- [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
 ### Thursday
-- [ ] 
-- [ ] Check on the askAI links returned in body - bump with falco and alvin if not reviewed yet
-- [ ] Review OAS ticket that falco has setup
-- [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
-	- [ ] Up for internal review, but still need to complete testing for this
-	- [ ] Testing:
-		- [ ] Project on legacy business doesn't change (thats askAI full)
-		- [ ] Project on askAI lite does change
-		- [ ] Project on askAI full doesn't change
-		- [ ] that when the setting is undefined on a project in UI it is medium
-		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
+- [ ] Docs audit - think about how this should work
 - [ ] Look at the stuff that they laid out for the agent resolution of the merge conflicts:
 	- [ ] do we have a recipe edit tool?
 		- [ ] If not its needed and we'll have to put it in
@@ -55,10 +43,22 @@
 - [ ] Create a skill that's used to inspect the ai service and interactions security related concerns
 
 ### Friday
-- [ ] PR Reviews
 - [ ] Carry over the [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) 
+- [ ] PR Reviews
+- [ ] Review OAS ticket that falco has setup
+- [ ] Trigger AI release
+	- [ ] Then merge, then check on the linking fix for in-text stream
+- [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
+	- [ ] Up for internal review, but still need to complete testing for this
+	- [ ] Testing:
+		- [ ] Project on legacy business doesn't change (thats askAI full)
+		- [ ] Project on askAI lite does change
+		- [ ] Project on askAI full doesn't change
+		- [ ] that when the setting is undefined on a project in UI it is medium
+		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
 - [ ] AskAI - get the backend to return urls in-text
 	- [ ] Note - this is something that will need some evals
+- [ ] Do my 1:1 notes
 
 ## PR Reviews
 - [ ] `readme`
