@@ -47,7 +47,10 @@
 - [ ] Security related ticket -> go ahead and merge if all good
 - [ ] Bump ryan for UI feedback if he hasn't got to it, check PR that its on
 - [ ] Check on the askAI links returned in body
-- [ ] Review OAS trn
+- [ ] Review OAS ticket that falco has setup
+- [ ] Look at the stuff that they laid out for the agent resolution of the merge conflicts:
+	- [ ] do we have a recipe edit tool?
+		- [ ] If not its needed and we'll have to put it in
 - [ ] See why this is still getting reprod from the thread: https://readmeio.slack.com/archives/C0B03RUTE93/p1786498263398219
 - [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
 - [ ] Create a skill that's used to inspect the ai service and interactions security related concerns

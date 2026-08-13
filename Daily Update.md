@@ -13,7 +13,7 @@
 - Need feedback on the [loom](https://www.loom.com/share/fc48c2938ff64be2a7b6362562e61659)  for tool calls from you @ryan - its same as what we currently have just want to make sure you're all good with it.
 
 *Discussion*
-- `owlbot.enabled = false` currently does not 
+- `owlbot.enabled = false` currently does not disable the API - intentional. Dan asked if we could have a "disable on api" asw - akamai might want this but they might also just be a bit spooked atm.
 - None
 
 *What I’ll be working on next:*
