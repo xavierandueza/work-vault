@@ -36,6 +36,7 @@
 - [ ] Do my 1:1 notes
 - [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
 ### Thursday
+- [ ] Think on how we're going to fix docs audit - think best practice for product for this
 - [x] Reviewed anand's 2x tickets
 - [ ] Review Christian's PRs for AI and Monorepo, script pr is separate
 - [ ] Security related ticket -> go ahead and merge if all good
