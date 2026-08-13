@@ -118,8 +118,7 @@ const response = await fetch(`/${subdomain}/api-next/v2/chat/editor`, {
             mediaType: 'image/png',
             filename: 'personal-linkedin.pdf',
           },
-        ],
-      },
+        ],      },
     ],
     context: {},
     subdomains: [subdomain],
@@ -198,30 +197,20 @@ const response = await fetch(`/${subdomain}/api-next/v2/chat/editor`, {
 });
 
 console.log('Status:', response.status);
-console.log('Content-Type:', response.headers.get('content-type'));
 
 const raw = await response.text();
-console.log('Raw response:', raw);
-
 let answer = '';
 
-for (const line of raw.split(/\r?\n/)) {
-  if (!line.startsWith('data:')) continue;
-
-  const payload = line.slice(5).trim();
-  if (!payload || payload === '[DONE]') continue;
+for (const line of raw.split('\n')) {
+  if (!line.startsWith('data: ') || line === 'data: [DONE]') continue;
 
   try {
-    const event = JSON.parse(payload);
-    console.log('Event:', event);
-
+    const event = JSON.parse(line.slice(6));
     if (event.type === 'text-delta') {
       answer += event.delta;
-    } else if (event.type === 'error') {
-      console.error('Stream error:', event.errorText);
     }
-  } catch (error) {
-    console.error('Could not parse stream line:', line, error);
+  } catch {
+    // Ignore non-JSON stream lines.
   }
 }
 
