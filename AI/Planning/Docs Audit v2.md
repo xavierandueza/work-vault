@@ -5,7 +5,8 @@ Note - I'm thinking of this like we would do a Github PR.
 	- They can have AI help set this up - basically the hub editor can assist them with this setup:
 		- If there's the ability to modify any text then we can actually have the hub agent modify this style guide on-demand asw - essentially can modify a context.md as it goes
 	- They don't need to actually codify set rules, just dump text and we figure it out from there
-- For a user warnings, errors don't mean anything vs a style guide so just can it.
+	- Its clear that this is a generic thing that AI will use as inputs, not just something for docs audit.
+- For a user "warnings", "errors" don't mean anything vs a style guide so just can it.
 - The comments that come in have a grade for them - high/med/low but better worded...
 	- Inline commented when viewing via UI
 	- **It should have the fix for it ready to apply**
@@ -25,6 +26,8 @@ Note - I'm thinking of this like we would do a Github PR.
 - Move from warnings, errors, style guide to 1 unified input
 	- Needs a migration
 	- We should change where these settings live - its across ALL AI FEATURES that we use this information
-- Page 
+- Page linting needs to check against these sections
+- We have a recommended way that people format this
+- seeding works for this like it does now, just 1 big textbox instead
 
 ### 
