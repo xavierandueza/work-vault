@@ -36,9 +36,7 @@
 - [ ] Do my 1:1 notes
 - [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
 ### Thursday
-- [ ] Got Ryan's ui :check: on tool call bug fix:
-	- [ ] retested after anand changes
-	- [ ] all good to go, merged
+- [ ] 
 - [ ] Check on the askAI links returned in body - bump with falco and alvin if not reviewed yet
 - [ ] Review OAS ticket that falco has setup
 - [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
