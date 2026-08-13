@@ -110,7 +110,7 @@ const response = await fetch(`/${subdomain}/api-next/v2/chat/editor`, {
         parts: [
           {
             type: 'text',
-            text: 'Read the attached file and tell me the unique marker contained in it.',
+            text: 'What is in the image? please describe it to me',
           },
           {
             type: 'file',
@@ -177,7 +177,7 @@ const response = await fetch(`/${subdomain}/api-next/v2/chat/editor`, {
         parts: [
           {
             type: 'text',
-            text: 'Read the attached file and tell me the unique marker contained in it.',
+            text: 'What is in the image? please describe it to me',
           },
           {
             type: 'file',
