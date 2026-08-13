@@ -73,7 +73,7 @@
 	- [x] https://github.com/readmeio/readme/pull/20284
 	- [x] https://github.com/readmeio/readme/pull/20325
 	- [x] https://github.com/readmeio/readme/pull/20342
-	- [ ] https://github.com/readmeio/readme/pull/19598
+	- [x] https://github.com/readmeio/readme/pull/19598
 - [ ] `ai`
 	- [x] https://github.com/readmeio/ai/pull/964
 	- [x] https://github.com/readmeio/ai/pull/958
