@@ -69,8 +69,10 @@
 - [ ] `readme`
 	- [ ] https://github.com/readmeio/readme/pull/20350
 	- [ ] https://github.com/readmeio/ai/pull/958
+	- [ ] https://github.com/readmeio/readme/pull/20284
 - [ ] `ai`
 	- [ ] https://github.com/readmeio/ai/pull/964
+	- [ ] https://github.com/readmeio/ai/pull/958
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
 - [ ] `cli`
