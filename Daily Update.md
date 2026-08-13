@@ -15,7 +15,8 @@
 
 ***Discussion***
 - `owlbot.enabled = false` currently does not disable the API - intentional. Dan asked if we could have a "disable on api" asw - akamai might want this but they might also just be a bit spooked atm.
-- Where are we at w.r.t. unified search, sounds like there's some more changes coming down the wire?
+- Where are we at w.r.t. unified search, sounds like there's some more changes coming down the wire? Maybe a ryan question
+- What's the status for the mcp metrics stuff -
 - Docs Audit thoughts
 
 ***What I’ll be working on next:***
