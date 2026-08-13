@@ -69,15 +69,16 @@
 
 ## PR Reviews
 - [ ] `readme`
-	- [ ] https://github.com/readmeio/readme/pull/20350
-	- [ ] https://github.com/readmeio/readme/pull/20284
-	- [ ] https://github.com/readmeio/readme/pull/20325
-	- [ ] https://github.com/readmeio/readme/pull/20342
+	- [x] https://github.com/readmeio/readme/pull/20350
+	- [x] https://github.com/readmeio/readme/pull/20284
+	- [x] https://github.com/readmeio/readme/pull/20325
+	- [x] https://github.com/readmeio/readme/pull/20342
+	- [ ] https://github.com/readmeio/readme/pull/19598
 - [ ] `ai`
-	- [ ] https://github.com/readmeio/ai/pull/964
-	- [ ] https://github.com/readmeio/ai/pull/958
-	- [ ] https://github.com/readmeio/ai/pull/966
-	- [ ] https://github.com/readmeio/ai/pull/962
+	- [x] https://github.com/readmeio/ai/pull/964
+	- [x] https://github.com/readmeio/ai/pull/958
+	- [x] https://github.com/readmeio/ai/pull/966
+	- [x] https://github.com/readmeio/ai/pull/962
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
 - [ ] `cli`
