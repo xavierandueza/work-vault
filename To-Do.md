@@ -36,6 +36,7 @@
 - [ ] Do my 1:1 notes
 - [ ] Review what Minh sent through for the writer: https://readmeio.slack.com/archives/C0ALPCPCH71/p1786497976663949
 ### Thursday
+- [ ] Get onto this issue here: https://linear.app/readme-io/issue/RM-17890/missing-ownership-check-on-chat-editor-file-attachment-signed-urls
 - [ ] Think on how we're going to fix docs audit - think best practice for product for this
 - [ ] Get back to Phoebe on her question
 - [x] Reviewed anand's 2x tickets
