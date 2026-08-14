@@ -1,11 +1,14 @@
 ***what I did:***
 - Morning meetings
 - PR Reviews
-- Retested 
-- Got a [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) - if someone has a file key for an editor chat upload that they don't have access to, and guess a file name that exists for something that was uploaded to the AI editor they could gain information (via the LLM) about that file
-- Gave some thought on how docs audit might be best to work long-term.
-- Retested and merged the [tool call UI bug fix](https://github.com/readmeio/readme/pull/19942) - note merged after release so not live yet.
-- Retested and merged the [askAI v2 linking on AI side](https://github.com/readmeio/ai/pull/946) - will trigger an AI release tomorrow to get an sdk bump
+- Fixed up new test cases for the unified search, let the QA team know about them
+- Internal 1:1s
+- [Retested + Merged ](https://github.com/readmeio/readme/pull/20365)the security related issue for the chat attachments that were exposed cross-project
+- Started on a better, golden askAI v2 test case suite based on ReadMe docs:
+	- Will have 10x easy, medium, hard questions
+	- New judges, validating that the correct links are presented in results
+- Started looking into and bumping scoping for ai related ticket that branching pod is tackling - on merging conflicts.
+- Team 1:1s
 
 ***AskAI v2***
 * Thursday 20th release b/c of unified search work
