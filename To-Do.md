@@ -65,23 +65,18 @@
 
 ## PR Reviews
 - [ ] `readme`
-	- [x] https://github.com/readmeio/readme/pull/20350
-	- [x] https://github.com/readmeio/readme/pull/20284
-	- [x] https://github.com/readmeio/readme/pull/20325
-	- [x] https://github.com/readmeio/readme/pull/20342
-	- [x] https://github.com/readmeio/readme/pull/19598
+	- [x] https://github.com/readmeio/readme/pull/20148#pullrequestreview-4934036518
+	- [ ] https://github.com/readmeio/readme/pull/20189
+	- [ ] https://github.com/readmeio/readme/pull/20342
 - [ ] `ai`
-	- [x] https://github.com/readmeio/ai/pull/964
-	- [x] https://github.com/readmeio/ai/pull/958
-	- [x] https://github.com/readmeio/ai/pull/966
-	- [x] https://github.com/readmeio/ai/pull/962
+	- [ ] https://github.com/readmeio/ai/pull/958
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
 - [ ] `cli`
 
 ## Backlog
 - [ ] Tooling via lsps like anand mentioned → see what we can add for this...
-- [ ] Ask everyone who's tackling a vertical - dig up the tickets that other teams can work on - probably a label on issues that are just "outsidePod" tickets:
+- [ ] Ask everyone who's tackling a vertical - dig up the tickets that other teams can work on - probab
     - [ ] So we know when people can jump in and help.
 - [ ] Send through some feedback that I've been hearing from different members of the README team to everybody and ask for the solid asks that I have from them. Which one of them is where this puts us, and the other one is what I'll be working on next, where it should be at least a few days' worth of work
     - [ ] Major highlight here is that they did raise a couple of problems about people not having the next bit of work scoped out, and that they would actually prioritize helping you and scoping it out for you. But of course, when time zones conflict, then that's actually the problem
