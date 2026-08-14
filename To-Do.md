@@ -43,7 +43,7 @@
 - [ ] Create a skill that's used to inspect the ai service and interactions security related concerns
 
 ### Friday
-- [ ] new test old to new for searchk
+- [ ] new test old to new for search
 - [ ] Carry over the [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) 
 - [ ] PR Reviews
 - [ ] Review OAS ticket that falco has setup
