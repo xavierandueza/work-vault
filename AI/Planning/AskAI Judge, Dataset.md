@@ -36,3 +36,19 @@
 
 ### Judge - retrieved content disagrees with ground-truth
 - So we can catch drift better
+
+# Dataset
+
+This is a list of things that we should include in the new dataset:
+## Input
+- question
+- projects:
+	- subdomain
+	- name (optional)
+	- description (optional)
+- customization:
+	- 
+## Expected Output
+- a
+## Metadata
+- 
