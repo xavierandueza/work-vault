@@ -17,6 +17,15 @@
 - The dataset for this still won't be amazing, however its better that we start moving towards this and we can likely start seeing some differentiation in results.
 
 - Note that I'll need to actually get the core data points for this.
+
+## Ensure that we have the page type and slug that must be linked to
+- we need to make sure that the links that we expect are showing up as expected.
+- unique combination of:
+	- subdomain
+	- slug
+	- doc type
+	- Note - because of custom domains this actually needs to be handled on the AI server - so that we can validate that also we get the FULL proper links that we expect
+
 ## Larger work/fixes
 ### Come up with a set of actual new questions based on staging data:
 * Manual process to start with to make sure I know what I'm looking for and wanting
