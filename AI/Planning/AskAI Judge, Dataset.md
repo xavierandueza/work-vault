@@ -41,14 +41,37 @@
 
 This is a list of things that we should include in the new dataset:
 ## Input
-- question
-- projects:
-	- subdomain
-	- name (optional)
-	- description (optional)
-- customization:
-	- 
+- question - str
+- projectSubdomain - str
+
+Projects:
+```ts
+export interface ProjectDetails {
+  name: string;
+  subdomain: string;
+  description?: string;
+}
+```
+
+Customization:
+```ts
+export interface Customization {
+  advancedInstruction?: string;
+  answerLength?: 'long' | 'medium' | 'short' | 'unrestricted';
+  customTone?: string;
+  defaultAnswer?: string;
+  forbiddenWords?: string;
+  hideSources?: boolean;
+  tone?: string;
+}
+```
+
 ## Expected Output
-- a
+- a list of facts - so a list of strings.
+- a list of link data:
+
+```link
+```
+
 ## Metadata
 - 
