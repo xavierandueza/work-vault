@@ -48,9 +48,13 @@
 - [ ] new test old to new for search - UPDATE QA PLAN
 - [x] Carry over the [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) 
 - [x] PR Reviews
+- [ ] Evals improvements for askAI v2
+	- [ ] Better judge(s) - main judge for the valid dataset.
+	- [ ] get a better dataset of questions:
+	- [ ] 10x easy
+	- [ ] 10 medium - usually coordinating a couple of different data points
+	- [ ] 10x hard - coordinating a lot of different data points
 - [ ] Review OAS ticket that falco has setup
-- [ ] Trigger AI release
-	- [ ] Then merge, then check on the linking fix for in-text stream
 - [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
 	- [ ] Up for internal review, but still need to complete testing for this
 	- [ ] Testing:

@@ -16,6 +16,7 @@
 - Update this so its a score between 0-1 that's about the amount of datapoints in ground truth
 - The dataset for this still won't be amazing, however its better that we start moving towards this and we can likely start seeing some differentiation in results.
 
+- Note that I'll need to actually get the core data points for this.
 ## Larger work/fixes
 ### Come up with a set of actual new questions based on staging data:
 * Manual process to start with to make sure I know what I'm looking for and wanting
