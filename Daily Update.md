@@ -7,29 +7,21 @@
 - Started on a better, golden askAI v2 test case suite based on ReadMe docs:
 	- Will have 10x easy, medium, hard questions
 	- New judges, validating that the correct links are presented in results
-- Started looking into and bumping scoping for ai related ticket that branching pod is tackling - on merging conflicts.
+- Started looking into and bumping scoping for ai related ticket that branching pod is tackling - on merging conflicts ([ticket](https://linear.app/readme-io/issue/RM-17924/ai-resolution-for-merge-conflicts)).
 - Team 1:1s
 
 ***AskAI v2***
 * Thursday 20th release b/c of unified search work
-- Links coming from backend after ai release tomorrow, meaning all v2 core features done
-- Unified search - need an update on this in standup tomorrow
 
 ***Blockers***
 - None
 
 ***Discussion***
-- `owlbot.enabled = false` currently does not disable the API - intentional. Dan asked if we could have a "disable on api" asw - akamai might want this but they might also just be a bit spooked atm.
-	- Dan - unless they specifically complain about it.
-- Where are we at w.r.t. unified search, sounds like there's some more changes coming down the wire? Maybe a ryan question
-- What's the status for the mcp metrics stuff -
-- Docs Audit thoughts
+- Dan - unless they specifically complain about it.
+- Discussion after meeting your Monday on the AI Onboarding, I'll put my thoughts into the [notion doc](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080?source=copy_link) on Monday aus time for it
 
 ***What I’ll be working on next:***
-- Review OAS translations pr, give thoughts on that
-- Carry over the [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) 
-- Trigger AI release
-	- Then merge, then check on the linking fix for in-text stream
+- Finish the golden askAI v2 test suite
 - [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
 
 ***Where this puts me/us:***
@@ -37,13 +29,8 @@
 
 ***PR Reviews:***
 - `readme`
-	- https://github.com/readmeio/readme/pull/20350
-	- https://github.com/readmeio/readme/pull/20284
-	- https://github.com/readmeio/readme/pull/20325
+	- https://github.com/readmeio/readme/pull/20148
+	- https://github.com/readmeio/readme/pull/20189
 	- https://github.com/readmeio/readme/pull/20342
-	- https://github.com/readmeio/readme/pull/19598
-- `ai`
-	- https://github.com/readmeio/ai/pull/964
-	- https://github.com/readmeio/ai/pull/958
-	- https://github.com/readmeio/ai/pull/966
-	- https://github.com/readmeio/ai/pull/962
+- `cli`
+	- https://github.com/readmeio/cli/pull/41
