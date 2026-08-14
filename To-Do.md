@@ -45,8 +45,8 @@
 ### Friday
 - [x] Send Julia a message - would it be helpful if Lyra did more scoping in the enterprise pod?
 - [x] Look at the stuff that they laid out for the agent resolution of the merge conflicts:
-- [ ] new test old to new for search
-- [ ] Carry over the [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) 
+- [ ] new test old to new for search - UPDATE QA PLAN
+- [x] Carry over the [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) 
 - [ ] PR Reviews
 - [ ] Review OAS ticket that falco has setup
 - [ ] Trigger AI release
