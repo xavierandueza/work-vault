@@ -16,7 +16,7 @@
 - [x] LinkedIn check
 - [x] Make sure my tickets for the next few days are well scoped and understood
 - [x] Check weekday-based tasks
-- [ ] PR Reviews
+- [x] PR Reviews
 - [ ] Check on my outstanding PRs
 
 ## End of Day
@@ -47,7 +47,7 @@
 - [x] Look at the stuff that they laid out for the agent resolution of the merge conflicts:
 - [ ] new test old to new for search - UPDATE QA PLAN
 - [x] Carry over the [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) 
-- [ ] PR Reviews
+- [x] PR Reviews
 - [ ] Review OAS ticket that falco has setup
 - [ ] Trigger AI release
 	- [ ] Then merge, then check on the linking fix for in-text stream
@@ -65,14 +65,14 @@
 
 ## PR Reviews
 - [ ] `readme`
-	- [x] https://github.com/readmeio/readme/pull/20148#pullrequestreview-4934036518
-	- [ ] https://github.com/readmeio/readme/pull/20189
-	- [ ] https://github.com/readmeio/readme/pull/20342
+	- [x] https://github.com/readmeio/readme/pull/20148
+	- [x] https://github.com/readmeio/readme/pull/20189
+	- [x] https://github.com/readmeio/readme/pull/20342
 - [ ] `ai`
-	- [ ] https://github.com/readmeio/ai/pull/958
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
 - [ ] `cli`
+	- [x] https://github.com/readmeio/cli/pull/41
 
 ## Backlog
 - [ ] Tooling via lsps like anand mentioned → see what we can add for this...
