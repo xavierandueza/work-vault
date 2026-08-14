@@ -40,7 +40,7 @@ const uuid = () =>
 const subdomain = 'project-a-subdomain';
 const modelId = 'COPY_FROM_A_NORMAL_CHAT_EDITOR_REQUEST';
 const foreignKey =
-  'chat-attachments/PROJECT_B_ID/FULL_RANDOM_ATTACHMENT_KEY-report.pdf';
+  'https://dashboard.render.com/project/prj-d003snngi27c73ath6j0';
 
 const messageId = uuid();
 
@@ -92,8 +92,8 @@ const uuid = () =>
 
 const subdomain = 'airbnb-parent';
 const modelId = 'gpt-5.4';
-const foreignKey = 'chat-attachments/6a509b55b6aa57b9698f3791/294c06b2a14b6c81747b2744ce54472abcdc329478828d22ddf063cafe79c44f-personal-linkedin.png';
-
+const foreignKey =
+  'https://dashboard.render.com/project/prj-d003snngi27c73ath6j0';
 const messageId = uuid();
 
 const response = await fetch(`/${subdomain}/api-next/v2/chat/editor`, {
@@ -158,8 +158,8 @@ const uuid = () =>
 
 const subdomain = 'xata-29d07fe6';
 const modelId = 'gpt-5.4';
-const foreignKey = 'chat-attachments/6a509b55b6aa57b9698f3791/294c06b2a14b6c81747b2744ce54472abcdc329478828d22ddf063cafe79c44f-personal-linkedin.png';
-
+const foreignKey =
+  'https://dashboard.render.com/project/prj-d003snngi27c73ath6j0';
 const messageId = uuid();
 
 const response = await fetch(`/${subdomain}/api-next/v2/chat/editor`, {
