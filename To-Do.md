@@ -1,7 +1,7 @@
 ## Start of Day
 - [x] Check Calendar
-- [ ] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
-- [ ] Check Slack messages and threads
+- [x] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
+- [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
 - [x] Email Check
 - [ ] Review everyone else’s updates for the day
@@ -10,7 +10,7 @@
     - [ ] Enterprise bug bash pod
     - [ ] Onboarding pod
     - [ ] OAS (Hugo)
-- [x] Review Linear notifications
+- [ ] Review Linear notifications
 - [x] Check triage tickets linear
 - [x] Make sure deployments worked fine for my changes
 - [x] LinkedIn check
