@@ -10,7 +10,7 @@
     - [ ] Enterprise bug bash pod
     - [ ] Onboarding pod
     - [ ] OAS (Hugo)
-- [ ] Review Linear notifications
+- [x] Review Linear notifications
 - [x] Check triage tickets linear
 - [x] Make sure deployments worked fine for my changes
 - [x] LinkedIn check
