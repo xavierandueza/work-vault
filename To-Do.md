@@ -28,6 +28,10 @@
 
 ## What I want to get done this week
 ### Monday
+- [ ] Add ideas into the [AI Onboarding](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080?source=copy_link)
+	- [ ] Interact with gitbooks version
+	- [ ] Interact with Mintlify's version
+	- [ ] TLDR - add new api and use the ReadMe MCP for this, basically a skill using the MCP server to do this that we can host somewhere, provide some links to open in their fav editors mb too. VERY easy way of getting started
 - [ ] 
 ### Tuesday
 - [ ] 
@@ -39,10 +43,8 @@
 - [ ] Create a skill that's used to inspect the ai service and interactions security related concerns
 
 ### Friday
-- [ ] Send Julia a message - would it be helpful if Lyra did more scoping in the enterprise pod?
-- [ ] Look at the stuff that they laid out for the agent resolution of the merge conflicts:
-	- [ ] do we have a recipe edit tool?
-		- [ ] If not its needed and we'll have to put it in
+- [x] Send Julia a message - would it be helpful if Lyra did more scoping in the enterprise pod?
+- [x] Look at the stuff that they laid out for the agent resolution of the merge conflicts:
 - [ ] new test old to new for search
 - [ ] Carry over the [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) 
 - [ ] PR Reviews
