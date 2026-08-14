@@ -42,7 +42,7 @@
 This is a list of things that we should include in the new dataset:
 ## Input
 - question - str
-- projectSubdomain - str
+- projectSubdomain - str - the main subdomain
 
 Projects:
 ```ts
@@ -70,8 +70,18 @@ export interface Customization {
 - a list of facts - so a list of strings.
 - a list of link data:
 
-```link
+```ts
+export interface Links {
+  subdomain: string;
+  type: 'docs' | 'reference' | 'changelog' | 'recipe' | 'discuss'
+  slug: string;
+  customDomain?: string;
+}
 ```
 
 ## Metadata
-- 
+```ts
+export interface Metadata {
+	difficulty: 'easy' | 'medium' | 'hard';
+}
+```

@@ -1,5 +1,7 @@
 ***what I did:***
-- Bunch of PR reviews
+- Morning meetings
+- PR Reviews
+- Retested 
 - Got a [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) - if someone has a file key for an editor chat upload that they don't have access to, and guess a file name that exists for something that was uploaded to the AI editor they could gain information (via the LLM) about that file
 - Gave some thought on how docs audit might be best to work long-term.
 - Retested and merged the [tool call UI bug fix](https://github.com/readmeio/readme/pull/19942) - note merged after release so not live yet.
