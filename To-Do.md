@@ -34,15 +34,15 @@
 ### Wednesday
 - [ ] PR Reviews
 ### Thursday
-- [ ] Docs audit - think about how this should work
-- [ ] Look at the stuff that they laid out for the agent resolution of the merge conflicts:
-	- [ ] do we have a recipe edit tool?
-		- [ ] If not its needed and we'll have to put it in
 - [ ] See why this is still getting reprod from the thread: https://readmeio.slack.com/archives/C0B03RUTE93/p1786498263398219
 - [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
 - [ ] Create a skill that's used to inspect the ai service and interactions security related concerns
 
 ### Friday
+- [ ] Send Julia a message - would it be helpful if Lyra did more scoping in the enterprise pod?
+- [ ] Look at the stuff that they laid out for the agent resolution of the merge conflicts:
+	- [ ] do we have a recipe edit tool?
+		- [ ] If not its needed and we'll have to put it in
 - [ ] new test old to new for search
 - [ ] Carry over the [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) 
 - [ ] PR Reviews
