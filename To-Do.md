@@ -32,7 +32,7 @@
 	- [ ] Interact with gitbooks version
 	- [ ] Interact with Mintlify's version
 	- [ ] TLDR - add new api and use the ReadMe MCP for this, basically a skill using the MCP server to do this that we can host somewhere, provide some links to open in their fav editors mb too. VERY easy way of getting started
-- [ ] 
+- [ ] Default instructinos for v2
 ### Tuesday
 - [ ] 
 ### Wednesday
