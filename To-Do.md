@@ -33,7 +33,10 @@
 	- [ ] Replicate it and understand what's happening
 	- [ ] Implement a fix
 	- [ ] Send message in dev about it
+- [ ] Review Falco PR
 - [ ] check out why the [major version bump isn't working ](https://github.com/readmeio/readme/pull/20374)
+	- [ ] Bump it too so that I can get my streaming links stuff merged in
+		- [ ] Then get anand bot on it:  https://github.com/readmeio/readme/pull/20224
 - [ ] 1:1 Notes
 - [ ] Medium Length PR done, tested, ready to go and chat to anand about it make sure he's on board
 - [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
