@@ -36,13 +36,11 @@
 - [x] Review Falco PR
 - [x] check out why the [major version bump isn't working ](https://github.com/readmeio/readme/pull/20374)
 	- [ ] Merge the ai client: https://github.com/readmeio/readme/pull/20375
-	- [ ] Merge the ai server: 
+	- [x] Merge the ai server
 	- [ ] Bump it too so that I can get my streaming links stuff merged in
 		- [ ] Then get anand bot on it:  https://github.com/readmeio/readme/pull/20224
 - [ ] 1:1 Notes
 - [ ] Medium Length PR done, tested, ready to go and chat to anand about it make sure he's on board
-- [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
-	- [ ] Do some testing on the different settings that we currently have b/w the two
 - [ ] Read over Dmytro's message about [MCP Authentication](https://readmeio.slack.com/archives/C091D173ANL/p1786733930813299)
 - [ ] Add ideas into the [AI Onboarding](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080?source=copy_link)
 	- [ ] Interact with gitbooks version
@@ -50,6 +48,8 @@
 	- [ ] TLDR - add new api and use the ReadMe MCP for this, basically a skill using the MCP server to do this that we can host somewhere, provide some links to open in their fav editors mb too. VERY easy way of getting started
 - [ ] Langfuse improve Evals
 ### Tuesday
+- [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
+	- [ ] Do some testing on the different settings that we currently have b/w the two
 - [ ] Check in with Alvin - how is he going with communicating to greg around when he thinks he'll be free to get started on the support help stuff?
 ### Wednesday
 - [ ] PR Reviews
