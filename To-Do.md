@@ -30,7 +30,7 @@
 ### Monday
 - [x] Gemini 3.7 Flash model into our model list
 - [ ] Get started on [this issue](https://linear.app/readme-io/issue/RM-17682/high-rdmecwe-95gray-matter-stringify-string-reparse-js-engine) b/c of SLA Considerations
-	- [ ] Replicate it and understand what's happening
+	- [x] Replicate it and understand what's happening
 	- [ ] Implement a fix
 	- [ ] Send message in dev about it
 - [ ] Review Falco PR
