@@ -1,7 +1,7 @@
 ## Start of Day
 - [x] Check Calendar
 - [x] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
-- [ ] Check Slack messages and threads
+- [x] Check Slack messages and threads
     - [ ] Create tasks for anything that needs doing
 - [ ] Email Check
 - [ ] Review everyone else’s updates for the day
@@ -28,11 +28,16 @@
 
 ## What I want to get done this week
 ### Monday
+- [ ] 1:1 Notes
+- [ ] Medium Length PR done
+- [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
+	- [ ] Do some testing on the different settings that we currently have b/w the two
+- [ ] Read over Dmytro's message about [MCP Authentication](https://readmeio.slack.com/archives/C091D173ANL/p1786733930813299)
 - [ ] Add ideas into the [AI Onboarding](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080?source=copy_link)
 	- [ ] Interact with gitbooks version
 	- [ ] Interact with Mintlify's version
 	- [ ] TLDR - add new api and use the ReadMe MCP for this, basically a skill using the MCP server to do this that we can host somewhere, provide some links to open in their fav editors mb too. VERY easy way of getting started
-- [ ] Default instructinos for v2
+- [ ] Default instructions for v2
 ### Tuesday
 - [ ] 
 ### Wednesday
