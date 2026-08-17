@@ -29,6 +29,7 @@
 ## What I want to get done this week
 ### Monday
 - [ ] Gemini 3.7 Flash model into our model list
+- [ ] check out why the [major version bump isn't working ](https://github.com/readmeio/readme/pull/20374)
 - [ ] 1:1 Notes
 - [ ] Medium Length PR done
 - [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
