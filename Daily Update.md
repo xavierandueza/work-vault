@@ -10,6 +10,7 @@
 ***Blockers***
 - Greptile is blocking [my pr](https://github.com/readmeio/ai/pull/972) with a 4/5 confidence? What do I do I can't seem to retrigger @anand
 - @anand can we do a dry run for the change to the [askAI length change](https://github.com/readmeio/readme/pull/20084) - this will touch a lot of projects so want to see how many with you for prod
+- @anand would be good to do a dry run for the medium response length migration just to see blast radius - might be very large if you don't mind chatting before standup on it? In case we want to change strategy
 
 ***Discussion***
 - AI Onboarding - my thoughts are in the [notion doc](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080?source=copy_link) 
