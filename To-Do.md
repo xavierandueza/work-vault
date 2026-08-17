@@ -28,6 +28,7 @@
 
 ## What I want to get done this week
 ### Monday
+- [ ] Gemini 3.7 Flash model into our model list
 - [ ] 1:1 Notes
 - [ ] Medium Length PR done
 - [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
@@ -37,7 +38,7 @@
 	- [ ] Interact with gitbooks version
 	- [ ] Interact with Mintlify's version
 	- [ ] TLDR - add new api and use the ReadMe MCP for this, basically a skill using the MCP server to do this that we can host somewhere, provide some links to open in their fav editors mb too. VERY easy way of getting started
-- [ ] Default instructions for v2
+- [ ] Langfuse improve Evals
 ### Tuesday
 - [ ] 
 ### Wednesday
