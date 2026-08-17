@@ -1,6 +1,8 @@
 ***what I did:***
 - Merged our ai package bumps into `readme` repo ([ai](https://github.com/readmeio/readme/pull/20374)) ([ai-client](https://github.com/readmeio/readme/pull/20375))
-- Got a pr up for the Gemini 3.7 flash release, adding to our model list 
+- Got a pr up for the Gemini 3.7 flash release, adding to our model list for agent, askAI
+- Got a PR up for a fix to the `rdme` repo -> security concern that we had
+- got a pr up to fix our downstream dep bump issue - a timing issue thing
 
 ***AskAI v2***
 * Thursday 20th release b/c of unified search work
