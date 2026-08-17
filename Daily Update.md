@@ -17,8 +17,7 @@
 - None
 
 ***Discussion***
-- Dan - unless they specifically complain about it.
-- Discussion after meeting your Monday on the AI Onboarding, I'll put my thoughts into the [notion doc](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080?source=copy_link) on Monday aus time for it
+- AI Onboarding - my thoughts are in the [notion doc](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080?source=copy_link) 
 
 ***What I’ll be working on next:***
 - Finish the golden askAI v2 test suite
