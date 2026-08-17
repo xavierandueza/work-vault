@@ -29,9 +29,13 @@
 ## What I want to get done this week
 ### Monday
 - [ ] Gemini 3.7 Flash model into our model list
+- [ ] Get started on [this issue](https://linear.app/readme-io/issue/RM-17682/high-rdmecwe-95gray-matter-stringify-string-reparse-js-engine) b/c of SLA Considerations
+	- [ ] Replicate it and understand what's happening
+	- [ ] Implement a fix
+	- [ ] Send message in dev about it
 - [ ] check out why the [major version bump isn't working ](https://github.com/readmeio/readme/pull/20374)
 - [ ] 1:1 Notes
-- [ ] Medium Length PR done
+- [ ] Medium Length PR done, tested, ready to go and chat to anand about it make sure he's on board
 - [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
 	- [ ] Do some testing on the different settings that we currently have b/w the two
 - [ ] Read over Dmytro's message about [MCP Authentication](https://readmeio.slack.com/archives/C091D173ANL/p1786733930813299)
