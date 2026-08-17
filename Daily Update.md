@@ -18,6 +18,8 @@
 
 ***Discussion***
 - AI Onboarding - my thoughts are in the [notion doc](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080?source=copy_link) 
+- Christian point - merge conflicts in slack writer, generally using the agent for merge readiness:
+	- Had a chat to marcus on this, bit complex we're adding in new tools for this that we enable while in that specific mode.
 
 ***What I’ll be working on next:***
 - Finish the golden askAI v2 test suite
