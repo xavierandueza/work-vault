@@ -35,6 +35,8 @@
 	- [x] Send message in dev about it
 - [x] Review Falco PR
 - [ ] check out why the [major version bump isn't working ](https://github.com/readmeio/readme/pull/20374)
+	- [ ] Merge the ai client: https://github.com/readmeio/readme/pull/20375
+	- [ ] Merge the ai server: 
 	- [ ] Bump it too so that I can get my streaming links stuff merged in
 		- [ ] Then get anand bot on it:  https://github.com/readmeio/readme/pull/20224
 - [ ] 1:1 Notes
