@@ -29,10 +29,10 @@
 ## What I want to get done this week
 ### Monday
 - [x] Gemini 3.7 Flash model into our model list
-- [ ] Get started on [this issue](https://linear.app/readme-io/issue/RM-17682/high-rdmecwe-95gray-matter-stringify-string-reparse-js-engine) b/c of SLA Considerations
+- [x] Get started on [this issue](https://linear.app/readme-io/issue/RM-17682/high-rdmecwe-95gray-matter-stringify-string-reparse-js-engine) b/c of SLA Considerations
 	- [x] Replicate it and understand what's happening
-	- [ ] Implement a fix
-	- [ ] Send message in dev about it
+	- [x] Implement a fix
+	- [x] Send message in dev about it
 - [ ] Review Falco PR
 - [ ] check out why the [major version bump isn't working ](https://github.com/readmeio/readme/pull/20374)
 	- [ ] Bump it too so that I can get my streaming links stuff merged in
