@@ -6,7 +6,7 @@
 - [x] Email Check
 - [ ] Review everyone else’s updates for the day
     - [x] AI Pod
-    - [ ] Branching Pod
+    - [x] Branching Pod
     - [ ] Enterprise bug bash pod
     - [ ] Onboarding pod
     - [ ] OAS (Hugo)
