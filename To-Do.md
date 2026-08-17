@@ -3,7 +3,7 @@
 - [x] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
-- [ ] Email Check
+- [x] Email Check
 - [ ] Review everyone else’s updates for the day
     - [ ] AI Pod
     - [ ] Branching Pod
