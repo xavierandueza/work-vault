@@ -10,12 +10,12 @@
     - [x] Enterprise bug bash pod
     - [x] Onboarding pod
     - [x] OAS (Hugo)
-- [ ] Review Linear notifications
-- [ ] Check triage tickets linear
-- [ ] Make sure deployments worked fine for my changes
-- [ ] LinkedIn check
-- [ ] Make sure my tickets for the next few days are well scoped and understood
-- [ ] Check weekday-based tasks
+- [x] Review Linear notifications
+- [x] Check triage tickets linear
+- [x] Make sure deployments worked fine for my changes
+- [x] LinkedIn check
+- [x] Make sure my tickets for the next few days are well scoped and understood
+- [x] Check weekday-based tasks
 - [ ] PR Reviews
 - [ ] Check on my outstanding PRs
 
@@ -45,7 +45,7 @@
 	- [ ] TLDR - add new api and use the ReadMe MCP for this, basically a skill using the MCP server to do this that we can host somewhere, provide some links to open in their fav editors mb too. VERY easy way of getting started
 - [ ] Langfuse improve Evals
 ### Tuesday
-- [ ] 
+- [ ] Check in with Alvin - how is he going with communicating to greg around when he thinks he'll be free to get started on the support help stuff?
 ### Wednesday
 - [ ] PR Reviews
 ### Thursday
