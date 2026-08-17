@@ -6,6 +6,7 @@
 - got a pr up to fix our downstream dep bump issue - a timing issue thing
 - Did a refactor to improve the medium length AskAI response stuff - anand review bot was failing but I think gh was just down
 - Fleshed out the [AI onboarding notion doc](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080) with my thoughts from interacting with gitbook and mintlify
+- PR Reviews
 
 ***AskAI v2***
 * Thursday 20th release b/c of unified search work
@@ -18,20 +19,15 @@
 ***Discussion***
 - AI Onboarding - my thoughts are in the [notion doc](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080?source=copy_link) 
 - Christian point - merge conflicts in slack writer, generally using the agent for merge readiness:
-	- Had a chat to marcus on this, bit complex we're adding in new tools for this that we enable while in that specific mode.
+	- Had a chat to marcus on this, bit complex we're adding in new tools for this that we enable while in that specific mode. Just an FYI as well
 - Notifications for [ai writer branches](https://readmeio.slack.com/archives/C091D173ANL/p1786931284842619?thread_ts=1786719887.566799&cid=C091D173ANL)  - do we want to get done soon?
 
 ***What I’ll be working on next:***
-- Finish the golden askAI v2 test suite
-- [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
+- Can probably start planning AI onboarding work...? Look at best things to do?
+- Otherwise just working on better evals for askAI - has been on to-do for a while but kept having things pop up
 
 ***Where this puts me/us:***
-* Still on track for AskAI v2 next Thursday from my POV
+* Still on track but need the unified search merged tomorrow
 
 ***PR Reviews:***
-- `readme`
-	- https://github.com/readmeio/readme/pull/20148
-	- https://github.com/readmeio/readme/pull/20189
-	- https://github.com/readmeio/readme/pull/20342
-- `cli`
-	- https://github.com/readmeio/cli/pull/41
+- Didn't record today but around 7 probably
