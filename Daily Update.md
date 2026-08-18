@@ -21,7 +21,6 @@
 		- Allowing users to actually signup via public api
 		- Allowing users to create projects, do almost everything via public API - if there's a hub endpoint that mutates state we probably want it exposed publicly (styles, askAI settings...)
 		- We MIGHT need to have a new access token type with higher admin perms
-- 
 
 ***What I’ll be working on next:***
 - PR up to remove the askAI v2 feature flag
