@@ -31,7 +31,7 @@
 - [ ] 
 
 ### Tuesday
-- [ ] Merge the ai client: https://github.com/readmeio/readme/pull/20375
+- [ ] Merge the ai client: https://github.com/readmeio/readme/pull/20437 
 - [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
 	- [ ] Do some testing on the different settings that we currently have b/w the two
 - [ ] Check in with Alvin - how is he going with communicating to greg around when he thinks he'll be free to get started on the support help stuff?
