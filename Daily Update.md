@@ -4,32 +4,30 @@
 		- A PR merging into this too, better type checking for our modelIds. Basically we had a bunch of magic strings that are easy to mess up on, no type safety around them either
 - Fixed up the `ai-client` issue for the merge into prod - had to just reset the pr and open up a new one
 - PR reviews
-- 
-- Fixed up 
-- Got a pr up for the Gemini 3.7 flash release, adding to our model list for agent, askAI
-- Got a PR up for a fix to the `rdme` repo -> security concern that we had
-- got a pr up to fix our downstream dep bump issue - a timing issue thing
-- Did a refactor to improve the medium length AskAI response stuff - anand review bot was failing but I think gh was just down
-- Fleshed out the [AI onboarding notion doc](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080) with my thoughts from interacting with gitbook and mintlify
-- PR Reviews
+- Added some more thoughts ot the AI Onboarding doc of ours again - TLDR we can actually get started with this very quickly with the approach of using MCP
+	- Homepage copy to paste into agent
+	- We continue to improve gradually as we add more API endpoints
 
 ***AskAI v2***
-* Thursday 20th release b/c of unified search work
+* At risk of this being delayed if we don't get UI/UX approval of this + merge tomorrow. We'll do QA for the unified search internally but if we don't start resolving issues tomorrow then GA will be pushed back again
 
 ***Blockers***
-- Greptile is blocking [my pr](https://github.com/readmeio/ai/pull/972) with a 4/5 confidence? What do I do I can't seem to retrigger @anand
-- @anand can we do a dry run for the change to the [askAI length change](https://github.com/readmeio/readme/pull/20084) - this will touch a lot of projects so want to see how many with you for prod
+- UI/UX approval for Unified Search
 
 ***Discussion***
-- AI Onboarding - my thoughts are in the [notion doc](https://app.notion.com/p/readme/AI-Onboarding-3bcc282774b580eea386f801cbc64080?source=copy_link) 
-- Notifications for [ai writer branches](https://readmeio.slack.com/archives/C091D173ANL/p1786931284842619?thread_ts=1786719887.566799&cid=C091D173ANL)  - do we want to get done soon?
+- AI Onboarding - I'll explain what my general approach recommendations are
+	- Need to make sure there's engineering buy in for a couple key parts:
+		- Allowing users to actually signup via public api
+		- Allowing users to create projects, do almost everything via public API - if there's a hub endpoint that mutates state we probably want it exposed publicly (styles, askAI settings...)
+		- We MIGHT need to have a new access token type with higher admin perms
 
 ***What I’ll be working on next:***
-- Can probably start planning AI onboarding work...? Look at best things to do?
+- PR up to remove the askAI v2 feature flag
+- Ticketing of work for the AI Onboarding
 - Otherwise just working on better evals for askAI - has been on to-do for a while but kept having things pop up
 
 ***Where this puts me/us:***
-* Still on track but need the unified search merged tomorrow
+* Definitely need unified search merged tomorrow - just UI/UX blocking
 
 ***PR Reviews:***
-- Didn't record today but around 7 probably
+- Didn't record today but around 5-7 probably
