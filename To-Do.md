@@ -32,9 +32,12 @@
 
 ### Tuesday
 - [ ] Merge the ai client: https://github.com/readmeio/readme/pull/20437 
+- [ ] Make sure that the askAI medium response length:
+	- [ ] Has passing type checks (from ai bump)
+	- [ ] has a migration that is logging well for me and its been tested on staging, works fine.
+- [ ] Get up a planning/scoped document that at a high-level contains my thoughts about best way to onboard...
 - [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
 	- [ ] Do some testing on the different settings that we currently have b/w the two
-- [ ] Check in with Alvin - how is he going with communicating to greg around when he thinks he'll be free to get started on the support help stuff?
 - [ ] Langfuse improve Evals
 - [ ] Read over Dmytro's message about [MCP Authentication](https://readmeio.slack.com/archives/C091D173ANL/p1786733930813299)
 ### Wednesday
