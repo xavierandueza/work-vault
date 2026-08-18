@@ -16,7 +16,7 @@
 - [x] LinkedIn check
 - [x] Make sure my tickets for the next few days are well scoped and understood
 - [x] Check weekday-based tasks
-- [ ] PR Reviews
+- [x] PR Reviews
 - [ ] Check on my outstanding PRs
 
 ## End of Day
