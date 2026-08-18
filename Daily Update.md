@@ -13,7 +13,7 @@
 
 ***Blockers***
 - UI/UX approval for Unified Search
-- AskAI v2 delayed because of the 
+- AskAI v2 delayed because of the new search settings needing integration work - Ryan will have time to polish settings but we'll start on the QA stuff ASAP
 
 ***Discussion***
 - AI Onboarding - I'll explain what my general approach recommendations are
@@ -21,6 +21,7 @@
 		- Allowing users to actually signup via public api
 		- Allowing users to create projects, do almost everything via public API - if there's a hub endpoint that mutates state we probably want it exposed publicly (styles, askAI settings...)
 		- We MIGHT need to have a new access token type with higher admin perms
+- 
 
 ***What I’ll be working on next:***
 - PR up to remove the askAI v2 feature flag

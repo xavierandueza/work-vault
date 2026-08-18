@@ -33,6 +33,7 @@
 ### Tuesday
 - [x] Merge the ai client: https://github.com/readmeio/readme/pull/20437 
 ### Wednesday
+- [ ] review PR here: https://github.com/readmeio/ai/pull/982
 - [ ] Unified search for askAI v2 - need to make sure this gets over the line
 	- [ ] Test this too
 - [ ] Medium Length migration - run this on staging when the staging mongo is live again
