@@ -31,7 +31,7 @@
 - [ ] 
 
 ### Tuesday
-- [ ] Merge the ai client: https://github.com/readmeio/readme/pull/20437 
+- [x] Merge the ai client: https://github.com/readmeio/readme/pull/20437 
 - [ ] Make sure that the askAI medium response length:
 	- [ ] Has passing type checks (from ai bump)
 	- [ ] has a migration that is logging well for me and its been tested on staging, works fine.
