@@ -32,23 +32,17 @@
 
 ### Tuesday
 - [x] Merge the ai client: https://github.com/readmeio/readme/pull/20437 
-- [ ] Make sure that the askAI medium response length:
-	- [ ] Has passing type checks (from ai bump)
-	- [ ] has a migration that is logging well for me and its been tested on staging, works fine.
-- [ ] Get up a planning/scoped document that at a high-level contains my thoughts about best way to onboard...
+### Wednesday
+- [ ] Unified search for askAI v2 - need to make sure this gets over the line
+	- [ ] Test this too
+- [ ] Medium Length migration - run this on staging when the staging mongo is live again
+- [ ] Get the PR up to remove the feature flag for askAI v2 -> meaning everything should now just default to using askAI v2 stuff.
+	- [ ] Merge into the migration PR
 - [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
 	- [ ] Do some testing on the different settings that we currently have b/w the two
-- [ ] Langfuse improve Evals
-- [ ] Read over Dmytro's message about [MCP Authentication](https://readmeio.slack.com/archives/C091D173ANL/p1786733930813299)
-### Wednesday
-- [ ] Medium Length migration - run this on staging when the staging mongo is live again
-- [ ] Make sure that we get the unified search stuff tested 
-- [ ] Get the PR up to remove the feature flag for askAI v2 -> meaning everything should now just default to using askAI v2 stuff.
-- [ ] Check in that christian has a clear guide on the  
 ### Thursday
 - [ ] See why this is still getting reprod from the thread: https://readmeio.slack.com/archives/C0B03RUTE93/p1786498263398219
 - [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
-- [ ] Create a skill that's used to inspect the ai service and interactions security related concerns
 
 ### Friday
 - [x] Send Julia a message - would it be helpful if Lyra did more scoping in the enterprise pod?
