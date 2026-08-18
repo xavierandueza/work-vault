@@ -34,30 +34,6 @@
 - [x] Merge the ai client: https://github.com/readmeio/readme/pull/20437 
 ### Wednesday
 - [ ] review PR here: https://github.com/readmeio/ai/pull/982
-- [ ] Unified search for askAI v2 - need to make sure this gets over the line
-	- [ ] Test this too
-- [ ] Medium Length migration - run this on staging when the staging mongo is live again
-- [ ] Get the PR up to remove the feature flag for askAI v2 -> meaning everything should now just default to using askAI v2 stuff.
-	- [ ] Merge into the migration PR
-- [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
-	- [ ] Do some testing on the different settings that we currently have b/w the two
-### Thursday
-- [ ] See why this is still getting reprod from the thread: https://readmeio.slack.com/archives/C0B03RUTE93/p1786498263398219
-- [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
-
-### Friday
-- [x] Send Julia a message - would it be helpful if Lyra did more scoping in the enterprise pod?
-- [x] Look at the stuff that they laid out for the agent resolution of the merge conflicts:
-- [ ] new test old to new for search - UPDATE QA PLAN
-- [x] Carry over the [fix up for a security issue](https://github.com/readmeio/readme/pull/20365) 
-- [x] PR Reviews
-- [ ] Evals improvements for askAI v2
-	- [ ] Better judge(s) - main judge for the valid dataset.
-	- [ ] get a better dataset of questions:
-	- [ ] 10x easy
-	- [ ] 10 medium - usually coordinating a couple of different data points
-	- [ ] 10x hard - coordinating a lot of different data points
-- [ ] Review OAS ticket that falco has setup
 - [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
 	- [ ] Up for internal review, but still need to complete testing for this
 	- [ ] Testing:
@@ -66,9 +42,27 @@
 		- [ ] Project on askAI full doesn't change
 		- [ ] that when the setting is undefined on a project in UI it is medium
 		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
-- [ ] AskAI - get the backend to return urls in-text
-	- [ ] Note - this is something that will need some evals
+- [ ] Unified search for askAI v2 - need to make sure this gets over the line
+	- [ ] Make sure its merged
+- [ ] Medium Length migration - run this on staging when the staging mongo is live again
+- [ ] Get the PR up to remove the feature flag for askAI v2 -> meaning everything should now just default to using askAI v2 stuff.
+	- [ ] Merge into the migration PR
+- [ ] Take a look over the v1 prompt vs the v2 prompt - what's the difference b/w the two?
+	- [ ] Do some testing on the different settings that we currently have b/w the two
 - [ ] Do my 1:1 notes
+
+### Thursday
+- [ ] get testers to start on Unified search for askAI v2
+- [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
+	- [ ] This will migrate in after we've verified that everything is looking good
+
+### Friday
+- [ ] Evals improvements for askAI v2
+	- [ ] Better judge(s) - main judge for the valid dataset.
+	- [ ] get a better dataset of questions:
+	- [ ] 10x easy
+	- [ ] 10 medium - usually coordinating a couple of different data points
+	- [ ] 10x hard - coordinating a lot of different data points
 
 ## PR Reviews
 - [ ] `readme`
