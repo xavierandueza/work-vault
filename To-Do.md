@@ -4,8 +4,8 @@
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
 - [x] Email Check
-- [ ] Review everyone else’s updates for the day
-    - [ ] AI Pod
+- [x] Review everyone else’s updates for the day
+    - [x] AI Pod
     - [ ] Branching Pod
     - [ ] Enterprise bug bash pod
     - [ ] Onboarding pod
