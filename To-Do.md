@@ -6,8 +6,8 @@
 - [x] Email Check
 - [x] Review everyone else’s updates for the day
     - [x] AI Pod
-    - [ ] Branching Pod
-    - [ ] Enterprise bug bash pod
+    - [x] Branching Pod
+    - [x] Enterprise bug bash pod
     - [ ] Onboarding pod
     - [ ] OAS (Hugo)
 - [ ] Review Linear notifications
