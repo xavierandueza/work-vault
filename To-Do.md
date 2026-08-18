@@ -41,7 +41,9 @@
 - [ ] Langfuse improve Evals
 - [ ] Read over Dmytro's message about [MCP Authentication](https://readmeio.slack.com/archives/C091D173ANL/p1786733930813299)
 ### Wednesday
-- [ ] PR Reviews
+- [ ] Medium Length migration - run this on staging when the staging mongo is live again
+- [ ] Make sure that we get the unified search stuff tested 
+- [ ] Get the PR up to remove the feature flag for askAI v2 -> meaning everything should now just default to using askAI v2 stuff.
 - [ ] Check in that christian has a clear guide on the  
 ### Thursday
 - [ ] See why this is still getting reprod from the thread: https://readmeio.slack.com/archives/C0B03RUTE93/p1786498263398219

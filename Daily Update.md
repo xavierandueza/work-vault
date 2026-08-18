@@ -1,6 +1,11 @@
 ***what I did:***
-- Merged `ai` package bump into `readme` repo ([ai](https://github.com/readmeio/readme/pull/20374)) 
-	- [ai-client](https://github.com/readmeio/readme/pull/20375) is giving me a lot of grief, and gh actions are down too so that's annoying
+- Fix up for gemini 3.7 flash work
+	- Made a PR on top of above - just updating the fallback models for other providers to also use the latest
+		- A PR merging into this too, better type checking for our modelIds. Basically we had a bunch of magic strings that are easy to mess up on, no type safety around them either
+- Fixed up the `ai-client` issue for the merge into prod - had to just reset the pr and open up a new one
+- PR reviews
+- 
+- Fixed up 
 - Got a pr up for the Gemini 3.7 flash release, adding to our model list for agent, askAI
 - Got a PR up for a fix to the `rdme` repo -> security concern that we had
 - got a pr up to fix our downstream dep bump issue - a timing issue thing
