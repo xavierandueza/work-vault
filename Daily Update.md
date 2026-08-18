@@ -13,6 +13,7 @@
 
 ***Blockers***
 - UI/UX approval for Unified Search
+- AskAI v2 delayed because of the 
 
 ***Discussion***
 - AI Onboarding - I'll explain what my general approach recommendations are
