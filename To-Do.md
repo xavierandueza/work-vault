@@ -34,6 +34,10 @@
 - [x] Merge the ai client: https://github.com/readmeio/readme/pull/20437 
 ### Wednesday
 - [ ] review PR here: https://github.com/readmeio/ai/pull/982
+- [ ] fixup the [security PII Issue](https://linear.app/readme-io/issue/CX-3841/avoid-pii-in-ssr-props-unless-used-in-a-public-way)
+	- [ ] Replicate the issue
+	- [ ] Understand what's happening code-wise
+	- [ ] Only send down the PII when its actually used on the page... This is really broad though so I'll have to see what they mean by this and explore the code a bit more
 - [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
 	- [ ] Up for internal review, but still need to complete testing for this
 	- [ ] Testing:
