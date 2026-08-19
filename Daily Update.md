@@ -1,8 +1,9 @@
 ***what I did:***
 - PR reviews - quite a few longer ones today so took up quite a bit of time
 - Continued updates on the AI Onboarding doc - need some more time with this to actually ticket out, likely to have done EOW
-- 
-l
+- Started on a [security issue](https://linear.app/readme-io/issue/CX-3841/avoid-pii-in-ssr-props-unless-used-in-a-public-way) that was brought up, concern around showing PII that isn't required from akamai
+	- This isn't emails its full names, but just as bad
+
 ***AskAI v2***
 * At risk of this being delayed if we don't get UI/UX approval of this + merge tomorrow. We'll do QA for the unified search internally but if we don't start resolving issues tomorrow then GA will be pushed back again
 
