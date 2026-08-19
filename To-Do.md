@@ -71,14 +71,15 @@
 
 ## PR Reviews
 - [ ] `readme`
-	- [x] https://github.com/readmeio/readme/pull/20148
-	- [x] https://github.com/readmeio/readme/pull/20189
-	- [x] https://github.com/readmeio/readme/pull/20342
+	- [ ] https://github.com/readmeio/readme/pull/20148
+	- [ ] https://github.com/readmeio/readme/pull/20388
+	- [ ] https://github.com/readmeio/readme/pull/20411
+	- [ ] https://github.com/readmeio/readme/pull/20435
+	- [ ] https://github.com/readmeio/readme/pull/20446
 - [ ] `ai`
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
 - [ ] `cli`
-	- [x] https://github.com/readmeio/cli/pull/41
 
 ## Backlog
 - [ ] Tooling via lsps like anand mentioned → see what we can add for this...
