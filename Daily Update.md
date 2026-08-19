@@ -1,13 +1,8 @@
 ***what I did:***
-- Fix up for gemini 3.7 flash work
-	- Made a PR on top of above - just updating the fallback models for other providers to also use the latest
-		- A PR merging into this too, better type checking for our modelIds. Basically we had a bunch of magic strings that are easy to mess up on, no type safety around them either
-- Fixed up the `ai-client` issue for the merge into prod - had to just reset the pr and open up a new one
-- PR reviews
-- Added some more thoughts ot the AI Onboarding doc of ours again - TLDR we can actually get started with this very quickly with the approach of using MCP
-	- Homepage copy to paste into agent
-	- We continue to improve gradually as we add more API endpoints
-
+- PR reviews - quite a few longer ones today so took up quite a bit of time
+- Continued updates on the AI Onboarding doc - need some more time with this to actually ticket out, likely to have done EOW
+- 
+l
 ***AskAI v2***
 * At risk of this being delayed if we don't get UI/UX approval of this + merge tomorrow. We'll do QA for the unified search internally but if we don't start resolving issues tomorrow then GA will be pushed back again
 
