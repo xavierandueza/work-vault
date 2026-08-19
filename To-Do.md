@@ -6,10 +6,10 @@
 - [x] Email Check
 - [ ] Review everyone else’s updates for the day
     - [x] AI Pod
-    - [ ] Branching Pod
-    - [ ] Enterprise bug bash pod
-    - [ ] Onboarding pod
-    - [ ] OAS (Hugo)
+    - [x] Branching Pod
+    - [x] Enterprise bug bash pod
+    - [x] Onboarding pod
+    - [x] OAS (Hugo)
 - [ ] Review Linear notifications
 - [ ] Check triage tickets linear
 - [ ] Make sure deployments worked fine for my changes
