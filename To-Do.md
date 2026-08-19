@@ -16,7 +16,7 @@
 - [x] LinkedIn check
 - [x] Make sure my tickets for the next few days are well scoped and understood
 - [x] Check weekday-based tasks
-- [ ] PR Reviews
+- [x] PR Reviews
 - [ ] Check on my outstanding PRs
 
 ## End of Day
@@ -71,16 +71,16 @@
 
 ## PR Reviews
 - [ ] `readme`
-	- [ ] https://github.com/readmeio/readme/pull/20148
-	- [ ] https://github.com/readmeio/readme/pull/20388
-	- [ ] https://github.com/readmeio/readme/pull/20411
-	- [ ] https://github.com/readmeio/readme/pull/20435
-	- [ ] https://github.com/readmeio/readme/pull/20446
+	- [x] https://github.com/readmeio/readme/pull/20148
+	- [x] https://github.com/readmeio/readme/pull/20388
+	- [x] https://github.com/readmeio/readme/pull/20411
+	- [x] https://github.com/readmeio/readme/pull/20435
+	- [x] https://github.com/readmeio/readme/pull/20446
 - [ ] `ai`
-	- [ ] https://github.com/readmeio/ai/pull/980
-	- [ ] https://github.com/readmeio/ai/pull/981
-	- [ ] https://github.com/readmeio/ai/pull/983
-	- [ ] https://github.com/readmeio/ai/pull/986
+	- [x] https://github.com/readmeio/ai/pull/980
+	- [x] https://github.com/readmeio/ai/pull/981
+	- [x] https://github.com/readmeio/ai/pull/983
+	- [x] https://github.com/readmeio/ai/pull/986
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
 - [ ] `cli`
