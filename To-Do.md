@@ -4,19 +4,19 @@
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
 - [x] Email Check
-- [x] Review everyone else’s updates for the day
-    - [x] AI Pod
-    - [x] Branching Pod
-    - [x] Enterprise bug bash pod
-    - [x] Onboarding pod
-    - [x] OAS (Hugo)
-- [x] Review Linear notifications
-- [x] Check triage tickets linear
-- [x] Make sure deployments worked fine for my changes
-- [x] LinkedIn check
-- [x] Make sure my tickets for the next few days are well scoped and understood
-- [x] Check weekday-based tasks
-- [x] PR Reviews
+- [ ] Review everyone else’s updates for the day
+    - [ ] AI Pod
+    - [ ] Branching Pod
+    - [ ] Enterprise bug bash pod
+    - [ ] Onboarding pod
+    - [ ] OAS (Hugo)
+- [ ] Review Linear notifications
+- [ ] Check triage tickets linear
+- [ ] Make sure deployments worked fine for my changes
+- [ ] LinkedIn check
+- [ ] Make sure my tickets for the next few days are well scoped and understood
+- [ ] Check weekday-based tasks
+- [ ] PR Reviews
 - [ ] Check on my outstanding PRs
 
 ## End of Day
@@ -71,16 +71,7 @@
 
 ## PR Reviews
 - [ ] `readme`
-	- [x] https://github.com/readmeio/readme/pull/20148
-	- [x] https://github.com/readmeio/readme/pull/20388
-	- [x] https://github.com/readmeio/readme/pull/20411
-	- [x] https://github.com/readmeio/readme/pull/20435
-	- [x] https://github.com/readmeio/readme/pull/20446
 - [ ] `ai`
-	- [x] https://github.com/readmeio/ai/pull/980
-	- [x] https://github.com/readmeio/ai/pull/981
-	- [x] https://github.com/readmeio/ai/pull/983
-	- [x] https://github.com/readmeio/ai/pull/986
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
 - [ ] `cli`
