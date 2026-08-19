@@ -80,7 +80,7 @@
 	- [ ] https://github.com/readmeio/ai/pull/980
 	- [ ] https://github.com/readmeio/ai/pull/981
 	- [ ] https://github.com/readmeio/ai/pull/983
-	- [ ] 
+	- [ ] https://github.com/readmeio/ai/pull/986
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
 - [ ] `cli`
