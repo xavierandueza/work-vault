@@ -35,6 +35,7 @@
 ### Wednesday
 - [ ] review PR here: https://github.com/readmeio/ai/pull/982
 - [ ] fixup the [security PII Issue](https://linear.app/readme-io/issue/CX-3841/avoid-pii-in-ssr-props-unless-used-in-a-public-way)
+	- [ ] Get christian to send me what he did [here](https://lyra-technologies.slack.com/archives/C08UEF2T1JP/p1787099530518379?thread_ts=1787097748.364539&cid=C08UEF2T1JP)
 	- [ ] Replicate the issue
 	- [ ] Understand what's happening code-wise
 	- [ ] Only send down the PII when its actually used on the page... This is really broad though so I'll have to see what they mean by this and explore the code a bit more
