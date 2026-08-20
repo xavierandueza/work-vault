@@ -28,7 +28,7 @@
 
 ## What I want to get done this week
 ### Monday
-- [ ] 
+- [ ] Finish off the flow stuff -> Greg says it needs to be manageable
 
 ### Tuesday
 - [x] Merge the ai client: https://github.com/readmeio/readme/pull/20437 
@@ -58,6 +58,7 @@
 	- [ ] This will migrate in after we've verified that everything is looking good
 
 ### Friday
+- [ ] Update the QA PLan - DON'T test the old search
 - [ ] Fix up the css styling issue for askAI v2
 	- [ ] AI side PR for this too
 - [ ] PII stuff:
