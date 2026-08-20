@@ -21,9 +21,9 @@
 
 ***What I’ll be working on next:***
 - Security fixups for SSR props - finishing off last 3
-- Getting A
-- PR up to remove the askAI v2 feature flag
-- Ticketing of work for the AI Onboarding
+- Getting AI side pr up to make sure links returned are in a good format for superscript version links
+- PR up to remove the askAI v2 feature flag (Monday)
+- Ticketing of work for the AI Onboarding (Monday)
 - Otherwise just working on better evals for askAI - has been on to-do for a while but kept having things pop up
 
 ***Where this puts me/us:***
@@ -31,14 +31,4 @@
 * AI Onboarding doc will be mostly wrapped up + planned by EOD Monday, so by your Monday there'll be a plan for it
 
 ***PR Reviews:***
-- `readme`
-	- https://github.com/readmeio/readme/pull/20148
-	- https://github.com/readmeio/readme/pull/20388
-	- https://github.com/readmeio/readme/pull/20411
-	- https://github.com/readmeio/readme/pull/20435
-	- https://github.com/readmeio/readme/pull/20446
-- `ai`
-	- https://github.com/readmeio/ai/pull/980
-	- https://github.com/readmeio/ai/pull/981
-	- https://github.com/readmeio/ai/pull/983
-	- https://github.com/readmeio/ai/pull/986
+- Didn't get to today, so I'll jump back on them ASAP tomorrow morning
