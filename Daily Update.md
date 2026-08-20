@@ -1,20 +1,27 @@
 ***what I did:***
-- [PR 1 of 4](https://github.com/readmeio/readme/pull/20487) up and ready for review for the pii issue
-- Got a pr up for having the links come up as references on monorepo
-- PR reviews
+- Got the PII for changelogs work ready for review - WIP on the rest just need to self-review the code and test to ensure that it's resolved issues, no issues introduced.
+	- [changelogs](https://github.com/readmeio/readme/pull/20487) g2g, other prs in draft
+- Worked on changing askAI v2 links to now be superscript links - looks a lot better:
+	- [Draft PR up](https://github.com/readmeio/readme/pull/20500) - agents need to settle first
+	- Also want to get UI sorted before anyone reviews Get the work done for the links being superscript:
+	- Need to adjust the AI prompt for how we embed links slightly for this but UI is ready to get approved
+	- [changelogs](https://github.com/readmeio/readme/pull/20487) g2g, prs in draft for other 3 fixes
 
 ***AskAI v2***
 * On track for Thursday 27th
-* Will get testers onto unified search tomorrow
+* UI now looking a lot better
+* QA testers now on unified search
 
 ***Blockers***
-- Having issues running the migration test for medium projects locally (connection refused) but I need to look into a bit more, have had higher prio tasks today b/c of the delay
+- Having issues running the migration test for medium projects locally (connection refused) but I need to look into a bit more, have had higher prio tasks last couple of days:
+	- Likely to get to Monday AEST
 
 ***Discussion***
 - UI Feedback on the links - @ryan if you get to watch the loom here let me know async, but otherwise we can just call before/after standup and get something you're happy with in probably 15 mins.
 
 ***What I’ll be working on next:***
-- Security fixups for SSR props
+- Security fixups for SSR props - finishing off last 3
+- Getting A
 - PR up to remove the askAI v2 feature flag
 - Ticketing of work for the AI Onboarding
 - Otherwise just working on better evals for askAI - has been on to-do for a while but kept having things pop up

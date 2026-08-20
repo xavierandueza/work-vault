@@ -44,15 +44,12 @@
 - [ ] Do my 1:1 notes
 
 ### Thursday
-- [ ] Get the work done for the links being superscript:
-	- [ ] PR up
-	- [ ] Loom up
-	- [ ] AI Repo version - tell it to link the text directly rather than doing a (source) or anything.
-- [ ] Finish off the pii issue:
-	- [ ] changelogs
-		- [ ] self-review PR
-		- [ ] test
-		- [ ] loom
+- [ ] Worked on changing askAI v2 links to now be superscript links - looks a lot better:
+	- [ ] [Draft PR up](https://github.com/readmeio/readme/pull/20500) - agents need to settle first
+	- [ ] Also want to get UI sorted before anyone reviews Get the work done for the links being superscript:
+	- [ ] Need to adjust the AI prompt for how we embed links slightly for this but UI is ready to get approved
+- [ ] Got the PII for changelogs work ready for review - WIP on the rest just need to self-review the code and test to ensure that it's resolved issues, no issues introduced.
+	- [ ] [changelogs](https://github.com/readmeio/readme/pull/20487) g2g, other prs in draft
 	- [ ] discuss:
 		- [ ] self-review PR
 		- [ ] test
