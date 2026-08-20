@@ -44,12 +44,24 @@
 - [ ] Do my 1:1 notes
 
 ### Thursday
-- [ ] Worked on changing askAI v2 links to now be superscript links - looks a lot better:
-	- [ ] [Draft PR up](https://github.com/readmeio/readme/pull/20500) - agents need to settle first
-	- [ ] Also want to get UI sorted before anyone reviews Get the work done for the links being superscript:
-	- [ ] Need to adjust the AI prompt for how we embed links slightly for this but UI is ready to get approved
-- [ ] Got the PII for changelogs work ready for review - WIP on the rest just need to self-review the code and test to ensure that it's resolved issues, no issues introduced.
-	- [ ] [changelogs](https://github.com/readmeio/readme/pull/20487) g2g, other prs in draft
+
+- [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
+	- [ ] Up for internal review, but still need to complete testing for this
+	- [ ] Testing:
+		- [ ] Project on legacy business doesn't change (thats askAI full)
+		- [ ] Project on askAI lite does change
+		- [ ] Project on askAI full doesn't change
+		- [ ] thta when the setting is undefined on a project in UI it is medium
+		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
+- [ ] Give feedback on this: https://linear.app/readme-io/issue/RM-18009/refactor-translation-pipeline-to-use-mongo-ledger
+- [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
+	- [ ] This will migrate in after we've verified that everything is looking good
+
+### Friday
+- [ ] Fix up the css styling issue for askAI v2
+- [ ] PII stuff:
+	- [ ] [changelogs](https://github.com/readmeio/readme/pull/20487) - make sure that anand comments fixed up
+		- [ ] Quick retest and review the changes made there.
 	- [ ] discuss:
 		- [ ] self-review PR
 		- [ ] test
@@ -63,19 +75,6 @@
 		- [ ] self-review PR
 		- [ ] test
 		- [ ] loom
-- [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
-	- [ ] Up for internal review, but still need to complete testing for this
-	- [ ] Testing:
-		- [ ] Project on legacy business doesn't change (thats askAI full)
-		- [ ] Project on askAI lite does change
-		- [ ] Project on askAI full doesn't change
-		- [ ] that when the setting is undefined on a project in UI it is medium
-		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
-- [ ] Give feedback on this: https://linear.app/readme-io/issue/RM-18009/refactor-translation-pipeline-to-use-mongo-ledger
-- [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
-	- [ ] This will migrate in after we've verified that everything is looking good
-
-### Friday
 - [ ] Evals improvements for askAI v2
 	- [ ] Better judge(s) - main judge for the valid dataset.
 	- [ ] get a better dataset of questions:
