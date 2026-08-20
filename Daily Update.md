@@ -11,7 +11,7 @@
 - Having issues running the migration test for medium projects locally (connection refused) but I need to look into a bit more, have had higher prio tasks today b/c of the delay
 
 ***Discussion***
-- None 
+- UI Feedback on the links - @ryan if you get to watch the loom here let me know async, but otherwise we can just call before/after standup and get something you're happy with in probably 15 mins.
 
 ***What I’ll be working on next:***
 - Security fixups for SSR props

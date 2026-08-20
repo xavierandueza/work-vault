@@ -44,7 +44,10 @@
 - [ ] Do my 1:1 notes
 
 ### Thursday
-- [ ] Get the work done for the links being superscript
+- [ ] Get the work done for the links being superscript:
+	- [ ] PR up
+	- [ ] Loom up
+	- [ ] AI Repo version - tell it to link the text directly rather than doing a (source) or anything.
 - [ ] Finish off the pii issue:
 	- [ ] changelogs
 		- [ ] self-review PR
