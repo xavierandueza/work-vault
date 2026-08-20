@@ -33,20 +33,7 @@
 ### Tuesday
 - [x] Merge the ai client: https://github.com/readmeio/readme/pull/20437 
 ### Wednesday
-- [ ] review PR here: https://github.com/readmeio/ai/pull/982
-- [ ] fixup the [security PII Issue](https://linear.app/readme-io/issue/CX-3841/avoid-pii-in-ssr-props-unless-used-in-a-public-way)
-	- [ ] Get christian to send me what he did [here](https://lyra-technologies.slack.com/archives/C08UEF2T1JP/p1787099530518379?thread_ts=1787097748.364539&cid=C08UEF2T1JP)
-	- [ ] Replicate the issue
-	- [ ] Understand what's happening code-wise
-	- [ ] Only send down the PII when its actually used on the page... This is really broad though so I'll have to see what they mean by this and explore the code a bit more
-- [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
-	- [ ] Up for internal review, but still need to complete testing for this
-	- [ ] Testing:
-		- [ ] Project on legacy business doesn't change (thats askAI full)
-		- [ ] Project on askAI lite does change
-		- [ ] Project on askAI full doesn't change
-		- [ ] that when the setting is undefined on a project in UI it is medium
-		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
+- [x] review PR here: https://github.com/readmeio/ai/pull/982
 - [ ] Unified search for askAI v2 - need to make sure this gets over the line
 	- [ ] Make sure its merged
 - [ ] Medium Length migration - run this on staging when the staging mongo is live again
@@ -57,7 +44,33 @@
 - [ ] Do my 1:1 notes
 
 ### Thursday
-- [ ] get testers to start on Unified search for askAI v2
+- [ ] Get the work done for the links being superscript
+- [ ] Finish off the pii issue:
+	- [ ] changelogs
+		- [ ] self-review PR
+		- [ ] test
+		- [ ] loom
+	- [ ] discuss:
+		- [ ] self-review PR
+		- [ ] test
+		- [ ] loom
+	- [ ] Owner info:
+		- [ ] self-review PR
+		- [ ] test
+		- [ ] loom
+	- [ ] Git info:
+		- [ ] Find the ticket that exists for this
+		- [ ] self-review PR
+		- [ ] test
+		- [ ] loom
+- [ ] [Medium response length for monorepo](https://github.com/readmeio/readme/pull/20084): 
+	- [ ] Up for internal review, but still need to complete testing for this
+	- [ ] Testing:
+		- [ ] Project on legacy business doesn't change (thats askAI full)
+		- [ ] Project on askAI lite does change
+		- [ ] Project on askAI full doesn't change
+		- [ ] that when the setting is undefined on a project in UI it is medium
+		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
 - [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
 	- [ ] This will migrate in after we've verified that everything is looking good
 
