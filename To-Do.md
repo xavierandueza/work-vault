@@ -71,6 +71,7 @@
 		- [ ] Project on askAI full doesn't change
 		- [ ] that when the setting is undefined on a project in UI it is medium
 		- [ ] that when the setting is undefined, we use medium from AI side of things too (show the langfuse traces)
+- [ ] Give feedback on this: https://linear.app/readme-io/issue/RM-18009/refactor-translation-pipeline-to-use-mongo-ledger
 - [ ] Get the PR up to deprecate/remove the askAI v1 logic from the monorepo, AI repos
 	- [ ] This will migrate in after we've verified that everything is looking good
 
