@@ -5,7 +5,7 @@
     - [x] Create tasks for anything that needs doing
 - [x] Email Check
 - [x] Review everyone else’s updates for the day
-    - [ ] AI Pod
+    - [x] AI Pod
     - [ ] Branching Pod
     - [ ] Enterprise bug bash pod
     - [ ] Onboarding pod
