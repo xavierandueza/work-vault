@@ -59,6 +59,7 @@
 
 ### Friday
 - [ ] Fix up the css styling issue for askAI v2
+	- [ ] AI side PR for this too
 - [ ] PII stuff:
 	- [ ] [changelogs](https://github.com/readmeio/readme/pull/20487) - make sure that anand comments fixed up
 		- [ ] Quick retest and review the changes made there.
