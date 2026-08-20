@@ -1,13 +1,10 @@
 ***what I did:***
-- PR reviews - quite a few longer ones today so took up quite a bit of time
-- Continued updates on the AI Onboarding doc - need some more time with this to actually ticket out, likely to have done EOW
-- Started on a [security issue](https://linear.app/readme-io/issue/CX-3841/avoid-pii-in-ssr-props-unless-used-in-a-public-way) that was brought up, concern around showing PII that isn't required from akamai
-	- This isn't emails its full names, but just as bad
-	- Spent some time digging into and verifying what SSR props we're currently exposing that we probably don't want to be
-	- Changelogs are WIP, will be able to get other ones up in background tomorrow.
+- [PR 1 of 4](https://github.com/readmeio/readme/pull/20487) up and ready for review for the pii issue
+- Got a pr up for having the links come up as references on monorepo
+- PR reviews
 
 ***AskAI v2***
-* Delayed to Thursday 27th
+* On track for Thursday 27th
 * Will get testers onto unified search tomorrow
 
 ***Blockers***
@@ -24,6 +21,7 @@
 
 ***Where this puts me/us:***
 * Okay for Thursday next week for askAI v2
+* AI Onboarding doc will be mostly wrapped up + planned by EOD Monday, so by your Monday there'll be a plan for it
 
 ***PR Reviews:***
 - `readme`
