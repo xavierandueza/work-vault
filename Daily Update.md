@@ -1,5 +1,5 @@
 ***what I did:***
-- bunch of PR reviews again
+- bunch of PR reviews
 - Updated QA plan for askAI v2 + commed with testing team about the unified search being only thing to test
 - Merged in the [changelog pii leak work](https://github.com/readmeio/readme/pull/20487)
 - Had a chat with ryan and agreed on the best UI for the superscript linking style:
@@ -36,5 +36,16 @@
 * AI Onboarding doc will be mostly wrapped up + planned by EOD Monday, so by your Monday there'll be a plan for it
 
 ***PR Reviews:***
-Didn't get to today, so I'll jump back on them ASAP tomorrow morning
-- 
+- `readme`
+	- https://github.com/readmeio/readme/pull/20432
+	- https://github.com/readmeio/readme/pull/20457
+	- https://github.com/readmeio/readme/pull/20526
+	- https://github.com/readmeio/readme/pull/20527
+- `ai`
+	- https://github.com/readmeio/ai/pull/1000
+	- https://github.com/readmeio/ai/pull/1003
+	- https://github.com/readmeio/ai/pull/1004
+	- https://github.com/readmeio/ai/pull/1005
+	- https://github.com/readmeio/ai/pull/1015
+- `ai-cli-runner`
+	- https://github.com/readmeio/ai-cli-runner/pull/111
