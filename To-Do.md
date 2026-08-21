@@ -3,9 +3,9 @@
 - [ ] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
-- [ ] Email Check
+- [x] Email Check
 - [ ] Review everyone else’s updates for the day
-    - [x] AI Pod
+    - [ ] AI Pod
     - [ ] Branching Pod
     - [ ] Enterprise bug bash pod
     - [ ] Onboarding pod
@@ -93,6 +93,8 @@
 
 ## PR Reviews
 - [ ] `readme`
+	- [x] https://github.com/readmeio/readme/pull/20432
+	- [ ] https://github.com/readmeio/readme/pull/20457
 - [ ] `ai`
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
