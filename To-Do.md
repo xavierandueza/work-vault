@@ -95,11 +95,14 @@
 - [ ] `readme`
 	- [x] https://github.com/readmeio/readme/pull/20432
 	- [ ] https://github.com/readmeio/readme/pull/20457
+	- [ ] https://github.com/readmeio/readme/pull/20526
+	- [ ] https://github.com/readmeio/readme/pull/20527
 - [ ] `ai`
-	- [ ] https://github.com/readmeio/ai/pull/1000
-	- [ ] https://github.com/readmeio/ai/pull/1003
-	- [ ] https://github.com/readmeio/ai/pull/1004
-	- [ ] https://github.com/readmeio/ai/pull/1005
+	- [x] https://github.com/readmeio/ai/pull/1000
+	- [x] https://github.com/readmeio/ai/pull/1003
+	- [x] https://github.com/readmeio/ai/pull/1004
+	- [x] https://github.com/readmeio/ai/pull/1005
+	- [x] https://github.com/readmeio/ai/pull/1015
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
 - [ ] `cli`
