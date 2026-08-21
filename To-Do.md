@@ -59,10 +59,12 @@
 
 ### Friday
 - [x] Update the QA Plan - DON'T test the old search
+- [ ] Merged in the [changelog pii leak work](https://github.com/readmeio/readme/pull/20487)
+- [ ] Had a chat with ryan and de
 - [ ] Make sure that the askAI links on the [monorepo are good to get over the line + done](https://github.com/readmeio/readme/pull/20224)
 	- [ ] Make sure type checking and all CI pass
 	- [ ] Get anandbot eyes and approval in a loop
-- [ ] Merge [jon's pr](https://github.com/readmeio/readme/pull/20504) once merge freeze lifted
+- [x] Merge [jon's pr](https://github.com/readmeio/readme/pull/20504) once merge freeze lifted
 - [x] Fix up the css styling issue for askAI v2
 - [ ] PII stuff:
 	- [ ] [changelogs](https://github.com/readmeio/readme/pull/20487) - make sure that anand comments fixed up
