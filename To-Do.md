@@ -1,10 +1,10 @@
 ## Start of Day
 - [x] Check Calendar
-- [x] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
+- [ ] Check status of AI apps ([link](https://dashboard.render.com/project/prj-d003snngi27c73ath6j0))
 - [x] Check Slack messages and threads
     - [x] Create tasks for anything that needs doing
-- [x] Email Check
-- [x] Review everyone else’s updates for the day
+- [ ] Email Check
+- [ ] Review everyone else’s updates for the day
     - [x] AI Pod
     - [ ] Branching Pod
     - [ ] Enterprise bug bash pod
