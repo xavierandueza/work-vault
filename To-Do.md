@@ -58,9 +58,11 @@
 	- [ ] This will migrate in after we've verified that everything is looking good
 
 ### Friday
-- [x] Update the QA Plan - DON'T test the old search
-- [ ] Merged in the [changelog pii leak work](https://github.com/readmeio/readme/pull/20487)
-- [ ] Had a chat with ryan and de
+- [x] Updated QA plan for askAI v2 + commed with testing team about the unified search being only thing to test
+- [x] Merged in the [changelog pii leak work](https://github.com/readmeio/readme/pull/20487)
+- [x] Had a chat with ryan and agreed on the best UI for the superscript linking style:
+	- [ ] Just [the reference is good to go](https://github.com/readmeio/readme/pull/20500) - had agents loop on it now good for review
+	- [ ] New PR up for having the links show at bottom and be controlled by the reference
 - [ ] Make sure that the askAI links on the [monorepo are good to get over the line + done](https://github.com/readmeio/readme/pull/20224)
 	- [ ] Make sure type checking and all CI pass
 	- [ ] Get anandbot eyes and approval in a loop
