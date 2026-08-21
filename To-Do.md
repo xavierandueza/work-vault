@@ -61,7 +61,7 @@
 - [x] Updated QA plan for askAI v2 + commed with testing team about the unified search being only thing to test
 - [x] Merged in the [changelog pii leak work](https://github.com/readmeio/readme/pull/20487)
 - [x] Had a chat with ryan and agreed on the best UI for the superscript linking style:
-	- [ ] Just [the reference is good to go](https://github.com/readmeio/readme/pull/20500) - had agents loop on it now good for review
+	- [ ] Just [the reference is mostly good to go](https://github.com/readmeio/readme/pull/20500) - had agents loop on it for a while but code is good, however because of agents looping on what it's dependent on too there's some conflicts I need to resolve
 	- [ ] New PR up for having the links show at bottom and be controlled by the reference
 - [ ] Make sure that the askAI links on the [monorepo are good to get over the line + done](https://github.com/readmeio/readme/pull/20224)
 	- [ ] Make sure type checking and all CI pass
@@ -94,9 +94,9 @@
 ## PR Reviews
 - [ ] `readme`
 	- [x] https://github.com/readmeio/readme/pull/20432
-	- [ ] https://github.com/readmeio/readme/pull/20457
-	- [ ] https://github.com/readmeio/readme/pull/20526
-	- [ ] https://github.com/readmeio/readme/pull/20527
+	- [x] https://github.com/readmeio/readme/pull/20457
+	- [x] https://github.com/readmeio/readme/pull/20526
+	- [x] https://github.com/readmeio/readme/pull/20527
 - [ ] `ai`
 	- [x] https://github.com/readmeio/ai/pull/1000
 	- [x] https://github.com/readmeio/ai/pull/1003
