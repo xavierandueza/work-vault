@@ -58,7 +58,7 @@
 	- [ ] This will migrate in after we've verified that everything is looking good
 
 ### Friday
-- [ ] Update the QA PLan - DON'T test the old search
+- [ ] Update the QA Plan - DON'T test the old search
 - [ ] Merge [jon's pr](https://github.com/readmeio/readme/pull/20504) once merge freeze lifted
 - [ ] Fix up the css styling issue for askAI v2
 	- [ ] AI side PR for this too
