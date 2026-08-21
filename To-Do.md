@@ -96,6 +96,10 @@
 	- [x] https://github.com/readmeio/readme/pull/20432
 	- [ ] https://github.com/readmeio/readme/pull/20457
 - [ ] `ai`
+	- [ ] https://github.com/readmeio/ai/pull/1000
+	- [ ] https://github.com/readmeio/ai/pull/1003
+	- [ ] https://github.com/readmeio/ai/pull/1004
+	- [ ] https://github.com/readmeio/ai/pull/1005
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
 - [ ] `cli`
