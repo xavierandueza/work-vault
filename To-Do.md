@@ -61,15 +61,16 @@
 - [x] Updated QA plan for askAI v2 + commed with testing team about the unified search being only thing to test
 - [x] Merged in the [changelog pii leak work](https://github.com/readmeio/readme/pull/20487)
 - [x] Had a chat with ryan and agreed on the best UI for the superscript linking style:
-	- [ ] Just [the reference is mostly good to go](https://github.com/readmeio/readme/pull/20500) - had agents loop on it for a while but code is good, however because of agents looping on what it's dependent on too there's some conflicts I need to resolve
-	- [ ] New PR up for having the links show at bottom and be controlled by the reference
-- [ ] Make sure that the askAI links on the [monorepo are good to get over the line + done](https://github.com/readmeio/readme/pull/20224)
-	- [ ] Make sure type checking and all CI pass
-	- [ ] Get anandbot eyes and approval in a loop
+	- [ ] Just [the reference is mostly good to go](https://github.com/readmeio/readme/pull/20500) - my agents are still looping on this with anand review though so unfortunately not yet out of internal review
+		- [ ] Fied up a css styling I saw with askAI links in this too that'll be good to have go live
+	- [ ] New [PR up for having the links show at bottom](https://github.com/readmeio/readme/pull/20523) and be controlled by the reference
+		- [ ] Agents still looping on this... As an FYI @anand there's been a LOT of back and forth from this and the above PR. Haven't had the time to audit to see validity of them all yet, but its starting to feel pretty cumbersome and that they keep going for hours on things that are mostly nits
+		- [ ] Will be ready for design review when you get back @ryan
 - [x] Merge [jon's pr](https://github.com/readmeio/readme/pull/20504) once merge freeze lifted
 - [x] Fix up the css styling issue for askAI v2
 - [ ] PII stuff:
-	- [ ] [changelogs](https://github.com/readmeio/readme/pull/20487) - make sure that anand comments fixed up
+	- [ ] [changelogs](https://github.com/readmeio/readme/pull/20487) - Merged
+	- [ ] Unfortunately with PR reviews and other AI pod work I didn't get the time to finish any of these others, I'll make top prio Monday
 		- [ ] Quick retest and review the changes made there.
 	- [ ] discuss:
 		- [ ] self-review PR
@@ -105,6 +106,7 @@
 	- [x] https://github.com/readmeio/ai/pull/1015
 - [ ] `gitto`
 - [ ] `ai-cli-runner`
+	- [ ] https://github.com/readmeio/ai-cli-runner/pull/111
 - [ ] `cli`
 
 ## Backlog
